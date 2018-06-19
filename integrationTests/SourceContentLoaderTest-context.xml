@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+        				   http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-4.3.xsd
+        				   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+        				   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+
+	<!-- Hibernate session factory definition that uses annotations in the entities 
+		to map to tables/columns. -->
+    <!--jee:jndi-lookup id="queueConnectionFactory" jndi-name="jms/queueConnectionFactory" expected-type="javax.jms.ConnectionFactory" resource-ref="true"/-->
+
+
+
+	<bean id="queueConnectionFactory" class="com.ibm.mq.jms.MQQueueConnectionFactory">
+		<property name="hostName" value="jdgdevmq.int.westgroup.com" />
+		<property name="port" value="1414" />
+		<property name="channel" value="CLIENTCONNECTION" />
+		<property name="transportType" value="1" />
+	</bean>
+
+
+	
+	<bean id="ltcResponseQueue" class="com.ibm.mq.jms.MQQueue"> 
+		<property name="baseQueueName"> 
+		<value>CONTECH.DOCKETS.LTC.REQ</value> 
+		</property> 
+	</bean> 
+	
+	
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="url"
+			value="jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=c832qwmdkdbdf.int.thomsonreuters.com)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=dockets_dev.int.thomsonreuters.com)))" />
+		<property name="username" value="DOCKETS_PUB_USER" />
+		<property name="password" value="d0ckets" />
+	</bean>
+	
+	<bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate"
+		  p:connectionFactory-ref="queueConnectionFactory"
+		  p:receiveTimeout="250"/>
+		  
+	<bean id="sessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</prop>
+				<prop key="hibernate.show_sql">false</prop>
+				<prop key="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</prop>
+			</props>
+		</property>
+		<property name="annotatedClasses">
+			<list>
+			    <value>com.trgr.dockets.core.entity.ErrorLog</value>
+			    <value>com.trgr.dockets.core.entity.SourceLoadRequest</value>
+			</list>
+		</property>
+	</bean>
+	
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate"
+  		  p:dataSource-ref="dataSource"/>
+
+	<bean id="transactionManager"
+		class="org.springframework.orm.hibernate3.HibernateTransactionManager"
+		p:sessionFactory-ref="sessionFactory" />
+
+	<bean id="docketMarshllerAndUnmarshller"  class="com.trgr.dockets.core.util.DocketMarshllerAndUnmarshller"/>
+
+	<bean id="bankruptcyContentService"
+		  class="com.thomson.judicial.dockets.bankruptcycontentservice.controller.BankruptcyContentService"/>
+	
+	<bean id="eventMarshllerAndUnmarshller"  class="com.trgr.dockets.core.util.EventMarshllerAndUnmarshller"/>
+	
+	<bean id="wrapperEnvironment" class="java.lang.String">
+            <constructor-arg type="String" value="dev" />
+    </bean>
+	
+	<bean id="sourceContentLoader"
+		class="com.trgr.dockets.core.service.SourceContentLoaderImpl"
+		p:docketMarshllerAndUnmarshller-ref="docketMarshllerAndUnmarshller"
+		p:wrapperEnvironment="dev"
+		p:eventLogService-ref="eventLogService"
+		p:sourceLoadRequestService-ref="sourceLoadRequestService"/>
+	
+	<bean id="sourceLoadRequestService" class="com.trgr.dockets.core.service.SourceLoadRequestServiceImpl"
+		  p:sourceLoadRequestDao-ref="sourceLoadRequestDao"/>
+
+	<bean id="errorLogService" class="com.trgr.dockets.core.service.ErrorLogServiceImpl"
+		  p:errorLogDao-ref="errorLogDao"/>
+		  
+	<!-- Enable the configuration of transactional behavior based on @Transactional 
+		annotations -->
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+	<bean id="eventLogService" class="com.trgr.dockets.core.service.EventLogServiceImpl"
+		  p:eventMarshllerAndUnmarshller-ref= "eventMarshllerAndUnmarshller"
+		  p:jmsTemplate-ref="jmsTemplate"/>
+
+	<bean id="errorLogDao" class="com.trgr.dockets.core.dao.ErrorLogDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+	</bean>	
+	
+	<bean id="sourceLoadRequestDao" class="com.trgr.dockets.core.dao.SourceLoadRequestDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+	</bean>			  
+  		    
+</beans>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+        				   http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-4.3.xsd
+        				   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+        				   http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.3.xsd
+        				   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+
+	<!-- Hibernate session factory definition that uses annotations in the entities 
+		to map to tables/columns. -->
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="url"
+			value="jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=c832qwmdkdbdf.int.thomsonreuters.com)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=dockets_dev.int.thomsonreuters.com)))" />
+		<property name="username" value="DOCKETS_PUB_USER" />
+		<property name="password" value="d0ckets" />
+	</bean>
+	
+	<bean id="sessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</prop>
+				<prop key="hibernate.show_sql">false</prop>
+				<prop key="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</prop>
+			</props>
+		</property>
+		<property name="annotatedClasses">
+			<list>
+		    	<value>com.trgr.dockets.core.entity.Batch</value>
+		    	<value>com.trgr.dockets.core.entity.BatchDocket</value>
+		    	<value>com.trgr.dockets.core.entity.BatchDroppedDocket</value>
+		    	<value>com.trgr.dockets.core.entity.BatchMonitor</value>
+		    	<value>com.trgr.dockets.core.entity.CollectionEntity</value>
+		    	<value>com.trgr.dockets.core.entity.Court</value>
+		    	<value>com.trgr.dockets.core.entity.CourtConfig</value>
+		    	<value>com.trgr.dockets.core.entity.CourtCaseTypeConfig</value>
+	    		<value>com.trgr.dockets.core.entity.CourtCaseTypeConfigKey</value>
+		    	<value>com.trgr.dockets.core.entity.CaseType</value>
+		    	<value>com.trgr.dockets.core.entity.DocketEntity</value>
+		    	<value>com.trgr.dockets.core.entity.DocketVersion</value>
+		    	<value>com.trgr.dockets.core.entity.DocketHistory</value>
+		    	<value>com.trgr.dockets.core.entity.PublishingControl</value>
+		    	<value>com.trgr.dockets.core.entity.PublishingProcessControl</value>
+		    	<value>com.trgr.dockets.core.entity.PublishingRequest</value>
+		    	<value>com.trgr.dockets.core.entity.Product</value>
+		    	<value>com.trgr.dockets.core.entity.Process</value>
+		    	<value>com.trgr.dockets.core.entity.ProcessType</value>
+		    	<value>com.trgr.dockets.core.entity.RequestType</value>
+		    	<value>com.trgr.dockets.core.entity.Status</value>
+		    	<value>com.trgr.dockets.core.entity.State</value>
+		    	<value>com.trgr.dockets.core.entity.StgPubUiRequest</value>
+		    	<value>com.trgr.dockets.core.entity.CourtCollectionMapKey</value>
+		    	<value>com.trgr.dockets.core.entity.AcquisitionStatus</value>
+		    	<value>com.trgr.dockets.core.entity.WiplaNovusContent</value>
+		    </list>
+		</property>
+	</bean>
+	
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate"
+  		  p:dataSource-ref="dataSource"/>
+
+	<bean id="transactionManager"
+		class="org.springframework.orm.hibernate3.HibernateTransactionManager"
+		p:sessionFactory-ref="sessionFactory" />
+
+	<!-- Enable the configuration of transactional behavior based on @Transactional 
+		annotations -->
+	<tx:annotation-driven transaction-manager="transactionManager" />
+	
+	<bean id="processAdapter" class="com.trgr.dockets.core.service.ProcessAdapterImpl">
+		<constructor-arg ref="docketService" />
+	</bean>
+	<bean id="processService" class="com.trgr.dockets.core.service.ProcessServiceImpl">
+		<property name="processDao" ref="processDao"/>
+	</bean>	
+	<bean id="processDao" class="com.trgr.dockets.core.dao.ProcessDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+	</bean>
+	<bean id="docketService" class="com.trgr.dockets.core.service.DocketServiceImpl">
+		<constructor-arg ref="docketDao"/>
+		<constructor-arg ref="acquisitionTypeValueMap"/>
+	</bean>	
+	<bean id="docketDao" class="com.trgr.dockets.core.dao.DocketDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+		<constructor-arg ref="jdbcTemplate"/>
+	</bean>	
+		
+	<bean id="wiplaNovusContentService" class="com.trgr.dockets.core.content.service.WiplaNovusContentServiceImpl">
+		<constructor-arg ref="wiplaNovusContentDao"/>
+	</bean>
+	<bean id="wiplaNovusContentDao" class ="com.trgr.dockets.core.dao.WiplaNovusContentDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+	</bean>
+	
+	<util:map id="acquisitionTypeValueMap">
+		<entry key="full_file">
+			<util:constant static-field="com.trgr.dockets.core.entity.CodeTableValues.RequestInitiatorTypeEnum.CUSTOM"/>
+		</entry>
+		<entry key="daily">
+			<util:constant static-field="com.trgr.dockets.core.entity.CodeTableValues.RequestInitiatorTypeEnum.DAILY"/>
+		</entry>
+		<entry key="update_link">
+			<util:constant static-field="com.trgr.dockets.core.entity.CodeTableValues.RequestInitiatorTypeEnum.UPDATE_LINK"/>
+		</entry>
+		<entry key="n_day_scrape">
+			<util:constant static-field="com.trgr.dockets.core.entity.CodeTableValues.RequestInitiatorTypeEnum.RESCRAPE"/>
+		</entry>
+	</util:map>
+    
+</beans>

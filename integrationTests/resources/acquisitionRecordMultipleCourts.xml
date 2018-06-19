@@ -1,0 +1,1075 @@
+<new.acquisition.record
+	dcs.receipt.id="9903761"
+	sender.id="Data Capture"
+	merged.file.name="WEST.BKR.preprocout.031512.001642.xml"
+	merged.file.size="4421079"
+	script.start.date.time="Thu Mar 15 03:42:54 CDT 2012"
+	script.end.date.time="Thu Mar 15 06:42:54 CDT 2012"
+	retrieve.type="daily" >
+			<court westlaw.cluster.name="n_dakbkr" acquisition.status="success" court.type="BKR">
+				<deleted.dockets>
+			   		<delete.docket.status status="delete">
+			     		<bkr.docket docket.number="2000bk01140" filename="2000bk01140" case.type="bk" filing.year="2000" sequence.number="001140" subfolder="/2000" filing.location="" subdivision=""/>
+			   		</delete.docket.status>
+				</deleted.dockets>
+				<acquired.dockets/>
+			</court>
+			<court westlaw.cluster.name="n_dvaebkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31597.gz" filename="3:2012bk31597" case.type="bk" filing.year="2012" sequence.number="31597" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="4:2012bk50399.gz" filename="4:2012bk50399" case.type="bk" filing.year="2012" sequence.number="50399" subfolder="/2012" filing.location="4" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="4:2012bk50400.gz" filename="4:2012bk50400" case.type="bk" filing.year="2012" sequence.number="50400" subfolder="/2012" filing.location="4" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31590.gz" filename="3:2012bk31590" case.type="bk" filing.year="2012" sequence.number="31590" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31605.gz" filename="3:2012bk31605" case.type="bk" filing.year="2012" sequence.number="31605" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71117.gz" filename="2:2012bk71117" case.type="bk" filing.year="2012" sequence.number="71117" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11669.gz" filename="1:2012bk11669" case.type="bk" filing.year="2012" sequence.number="11669" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11672.gz" filename="1:2012bk11672" case.type="bk" filing.year="2012" sequence.number="11672" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11657.gz" filename="1:2012bk11657" case.type="bk" filing.year="2012" sequence.number="11657" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11681.gz" filename="1:2012bk11681" case.type="bk" filing.year="2012" sequence.number="11681" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71110.gz" filename="2:2012bk71110" case.type="bk" filing.year="2012" sequence.number="71110" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31620.gz" filename="3:2012bk31620" case.type="bk" filing.year="2012" sequence.number="31620" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31589.gz" filename="3:2012bk31589" case.type="bk" filing.year="2012" sequence.number="31589" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71111.gz" filename="2:2012bk71111" case.type="bk" filing.year="2012" sequence.number="71111" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31615.gz" filename="3:2012bk31615" case.type="bk" filing.year="2012" sequence.number="31615" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31599.gz" filename="3:2012bk31599" case.type="bk" filing.year="2012" sequence.number="31599" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11652.gz" filename="1:2012bk11652" case.type="bk" filing.year="2012" sequence.number="11652" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31604.gz" filename="3:2012bk31604" case.type="bk" filing.year="2012" sequence.number="31604" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11659.gz" filename="1:2012bk11659" case.type="bk" filing.year="2012" sequence.number="11659" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11670.gz" filename="1:2012bk11670" case.type="bk" filing.year="2012" sequence.number="11670" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11667.gz" filename="1:2012bk11667" case.type="bk" filing.year="2012" sequence.number="11667" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31593.gz" filename="3:2012bk31593" case.type="bk" filing.year="2012" sequence.number="31593" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71126.gz" filename="2:2012bk71126" case.type="bk" filing.year="2012" sequence.number="71126" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71114.gz" filename="2:2012bk71114" case.type="bk" filing.year="2012" sequence.number="71114" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31622.gz" filename="3:2012bk31622" case.type="bk" filing.year="2012" sequence.number="31622" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11665.gz" filename="1:2012bk11665" case.type="bk" filing.year="2012" sequence.number="11665" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31602.gz" filename="3:2012bk31602" case.type="bk" filing.year="2012" sequence.number="31602" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31613.gz" filename="3:2012bk31613" case.type="bk" filing.year="2012" sequence.number="31613" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31609.gz" filename="3:2012bk31609" case.type="bk" filing.year="2012" sequence.number="31609" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11653.gz" filename="1:2012bk11653" case.type="bk" filing.year="2012" sequence.number="11653" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71123.gz" filename="2:2012bk71123" case.type="bk" filing.year="2012" sequence.number="71123" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31612.gz" filename="3:2012bk31612" case.type="bk" filing.year="2012" sequence.number="31612" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11674.gz" filename="1:2012bk11674" case.type="bk" filing.year="2012" sequence.number="11674" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71108.gz" filename="2:2012bk71108" case.type="bk" filing.year="2012" sequence.number="71108" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11661.gz" filename="1:2012bk11661" case.type="bk" filing.year="2012" sequence.number="11661" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11676.gz" filename="1:2012bk11676" case.type="bk" filing.year="2012" sequence.number="11676" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31624.gz" filename="3:2012bk31624" case.type="bk" filing.year="2012" sequence.number="31624" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11663.gz" filename="1:2012bk11663" case.type="bk" filing.year="2012" sequence.number="11663" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31625.gz" filename="3:2012bk31625" case.type="bk" filing.year="2012" sequence.number="31625" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31619.gz" filename="3:2012bk31619" case.type="bk" filing.year="2012" sequence.number="31619" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11678.gz" filename="1:2012bk11678" case.type="bk" filing.year="2012" sequence.number="11678" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11655.gz" filename="1:2012bk11655" case.type="bk" filing.year="2012" sequence.number="11655" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31610.gz" filename="3:2012bk31610" case.type="bk" filing.year="2012" sequence.number="31610" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71128.gz" filename="2:2012bk71128" case.type="bk" filing.year="2012" sequence.number="71128" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31608.gz" filename="3:2012bk31608" case.type="bk" filing.year="2012" sequence.number="31608" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31595.gz" filename="3:2012bk31595" case.type="bk" filing.year="2012" sequence.number="31595" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71120.gz" filename="2:2012bk71120" case.type="bk" filing.year="2012" sequence.number="71120" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71115.gz" filename="2:2012bk71115" case.type="bk" filing.year="2012" sequence.number="71115" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71121.gz" filename="2:2012bk71121" case.type="bk" filing.year="2012" sequence.number="71121" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31591.gz" filename="3:2012bk31591" case.type="bk" filing.year="2012" sequence.number="31591" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31603.gz" filename="3:2012bk31603" case.type="bk" filing.year="2012" sequence.number="31603" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71109.gz" filename="2:2012bk71109" case.type="bk" filing.year="2012" sequence.number="71109" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11668.gz" filename="1:2012bk11668" case.type="bk" filing.year="2012" sequence.number="11668" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11658.gz" filename="1:2012bk11658" case.type="bk" filing.year="2012" sequence.number="11658" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71116.gz" filename="2:2012bk71116" case.type="bk" filing.year="2012" sequence.number="71116" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11675.gz" filename="1:2012bk11675" case.type="bk" filing.year="2012" sequence.number="11675" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31596.gz" filename="3:2012bk31596" case.type="bk" filing.year="2012" sequence.number="31596" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11677.gz" filename="1:2012bk11677" case.type="bk" filing.year="2012" sequence.number="11677" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31617.gz" filename="3:2012bk31617" case.type="bk" filing.year="2012" sequence.number="31617" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31588.gz" filename="3:2012bk31588" case.type="bk" filing.year="2012" sequence.number="31588" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31606.gz" filename="3:2012bk31606" case.type="bk" filing.year="2012" sequence.number="31606" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31614.gz" filename="3:2012bk31614" case.type="bk" filing.year="2012" sequence.number="31614" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71118.gz" filename="2:2012bk71118" case.type="bk" filing.year="2012" sequence.number="71118" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11651.gz" filename="1:2012bk11651" case.type="bk" filing.year="2012" sequence.number="11651" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71119.gz" filename="2:2012bk71119" case.type="bk" filing.year="2012" sequence.number="71119" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11666.gz" filename="1:2012bk11666" case.type="bk" filing.year="2012" sequence.number="11666" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11671.gz" filename="1:2012bk11671" case.type="bk" filing.year="2012" sequence.number="11671" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31601.gz" filename="3:2012bk31601" case.type="bk" filing.year="2012" sequence.number="31601" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11649.gz" filename="1:2012bk11649" case.type="bk" filing.year="2012" sequence.number="11649" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71112.gz" filename="2:2012bk71112" case.type="bk" filing.year="2012" sequence.number="71112" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11680.gz" filename="1:2012bk11680" case.type="bk" filing.year="2012" sequence.number="11680" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11673.gz" filename="1:2012bk11673" case.type="bk" filing.year="2012" sequence.number="11673" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31616.gz" filename="3:2012bk31616" case.type="bk" filing.year="2012" sequence.number="31616" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31598.gz" filename="3:2012bk31598" case.type="bk" filing.year="2012" sequence.number="31598" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11654.gz" filename="1:2012bk11654" case.type="bk" filing.year="2012" sequence.number="11654" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11664.gz" filename="1:2012bk11664" case.type="bk" filing.year="2012" sequence.number="11664" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31623.gz" filename="3:2012bk31623" case.type="bk" filing.year="2012" sequence.number="31623" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71113.gz" filename="2:2012bk71113" case.type="bk" filing.year="2012" sequence.number="71113" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31600.gz" filename="3:2012bk31600" case.type="bk" filing.year="2012" sequence.number="31600" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11682.gz" filename="1:2012bk11682" case.type="bk" filing.year="2012" sequence.number="11682" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71124.gz" filename="2:2012bk71124" case.type="bk" filing.year="2012" sequence.number="71124" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31607.gz" filename="3:2012bk31607" case.type="bk" filing.year="2012" sequence.number="31607" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31611.gz" filename="3:2012bk31611" case.type="bk" filing.year="2012" sequence.number="31611" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71125.gz" filename="2:2012bk71125" case.type="bk" filing.year="2012" sequence.number="71125" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31592.gz" filename="3:2012bk31592" case.type="bk" filing.year="2012" sequence.number="31592" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31621.gz" filename="3:2012bk31621" case.type="bk" filing.year="2012" sequence.number="31621" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11660.gz" filename="1:2012bk11660" case.type="bk" filing.year="2012" sequence.number="11660" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11650.gz" filename="1:2012bk11650" case.type="bk" filing.year="2012" sequence.number="11650" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11662.gz" filename="1:2012bk11662" case.type="bk" filing.year="2012" sequence.number="11662" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31618.gz" filename="3:2012bk31618" case.type="bk" filing.year="2012" sequence.number="31618" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71122.gz" filename="2:2012bk71122" case.type="bk" filing.year="2012" sequence.number="71122" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11656.gz" filename="1:2012bk11656" case.type="bk" filing.year="2012" sequence.number="11656" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk71127.gz" filename="2:2012bk71127" case.type="bk" filing.year="2012" sequence.number="71127" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk31594.gz" filename="3:2012bk31594" case.type="bk" filing.year="2012" sequence.number="31594" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11679.gz" filename="1:2012bk11679" case.type="bk" filing.year="2012" sequence.number="11679" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dvawbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="5:2012bk50342.gz" filename="5:2012bk50342" case.type="bk" filing.year="2012" sequence.number="50342" subfolder="/2012" filing.location="5" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70480.gz" filename="7:2012bk70480" case.type="bk" filing.year="2012" sequence.number="70480" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60610.gz" filename="6:2012bk60610" case.type="bk" filing.year="2012" sequence.number="60610" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60613.gz" filename="6:2012bk60613" case.type="bk" filing.year="2012" sequence.number="60613" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70489.gz" filename="7:2012bk70489" case.type="bk" filing.year="2012" sequence.number="70489" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60615.gz" filename="6:2012bk60615" case.type="bk" filing.year="2012" sequence.number="60615" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70484.gz" filename="7:2012bk70484" case.type="bk" filing.year="2012" sequence.number="70484" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70482.gz" filename="7:2012bk70482" case.type="bk" filing.year="2012" sequence.number="70482" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="5:2012bk50341.gz" filename="5:2012bk50341" case.type="bk" filing.year="2012" sequence.number="50341" subfolder="/2012" filing.location="5" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60608.gz" filename="6:2012bk60608" case.type="bk" filing.year="2012" sequence.number="60608" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70488.gz" filename="7:2012bk70488" case.type="bk" filing.year="2012" sequence.number="70488" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="5:2012bk50343.gz" filename="5:2012bk50343" case.type="bk" filing.year="2012" sequence.number="50343" subfolder="/2012" filing.location="5" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60611.gz" filename="6:2012bk60611" case.type="bk" filing.year="2012" sequence.number="60611" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70486.gz" filename="7:2012bk70486" case.type="bk" filing.year="2012" sequence.number="70486" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60609.gz" filename="6:2012bk60609" case.type="bk" filing.year="2012" sequence.number="60609" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70483.gz" filename="7:2012bk70483" case.type="bk" filing.year="2012" sequence.number="70483" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60614.gz" filename="6:2012bk60614" case.type="bk" filing.year="2012" sequence.number="60614" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="5:2012bk50344.gz" filename="5:2012bk50344" case.type="bk" filing.year="2012" sequence.number="50344" subfolder="/2012" filing.location="5" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70481.gz" filename="7:2012bk70481" case.type="bk" filing.year="2012" sequence.number="70481" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="6:2012bk60612.gz" filename="6:2012bk60612" case.type="bk" filing.year="2012" sequence.number="60612" subfolder="/2012" filing.location="6" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70487.gz" filename="7:2012bk70487" case.type="bk" filing.year="2012" sequence.number="70487" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70490.gz" filename="7:2012bk70490" case.type="bk" filing.year="2012" sequence.number="70490" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="7:2012bk70485.gz" filename="7:2012bk70485" case.type="bk" filing.year="2012" sequence.number="70485" subfolder="/2012" filing.location="7" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dvtbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10203.gz" filename="1:2012bk10203" case.type="bk" filing.year="2012" sequence.number="10203" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10205.gz" filename="1:2012bk10205" case.type="bk" filing.year="2012" sequence.number="10205" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10207.gz" filename="1:2012bk10207" case.type="bk" filing.year="2012" sequence.number="10207" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10209.gz" filename="1:2012bk10209" case.type="bk" filing.year="2012" sequence.number="10209" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10204.gz" filename="1:2012bk10204" case.type="bk" filing.year="2012" sequence.number="10204" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10206.gz" filename="1:2012bk10206" case.type="bk" filing.year="2012" sequence.number="10206" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk10208.gz" filename="1:2012bk10208" case.type="bk" filing.year="2012" sequence.number="10208" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwaebkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01187.gz" filename="2:2012bk01187" case.type="bk" filing.year="2012" sequence.number="01187" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01178.gz" filename="2:2012bk01178" case.type="bk" filing.year="2012" sequence.number="01178" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01171.gz" filename="2:2012bk01171" case.type="bk" filing.year="2012" sequence.number="01171" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01181.gz" filename="2:2012bk01181" case.type="bk" filing.year="2012" sequence.number="01181" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01174.gz" filename="2:2012bk01174" case.type="bk" filing.year="2012" sequence.number="01174" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01176.gz" filename="2:2012bk01176" case.type="bk" filing.year="2012" sequence.number="01176" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01185.gz" filename="2:2012bk01185" case.type="bk" filing.year="2012" sequence.number="01185" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01170.gz" filename="2:2012bk01170" case.type="bk" filing.year="2012" sequence.number="01170" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01180.gz" filename="2:2012bk01180" case.type="bk" filing.year="2012" sequence.number="01180" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01182.gz" filename="2:2012bk01182" case.type="bk" filing.year="2012" sequence.number="01182" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01172.gz" filename="2:2012bk01172" case.type="bk" filing.year="2012" sequence.number="01172" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01177.gz" filename="2:2012bk01177" case.type="bk" filing.year="2012" sequence.number="01177" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01167.gz" filename="2:2012bk01167" case.type="bk" filing.year="2012" sequence.number="01167" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01184.gz" filename="2:2012bk01184" case.type="bk" filing.year="2012" sequence.number="01184" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01179.gz" filename="2:2012bk01179" case.type="bk" filing.year="2012" sequence.number="01179" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01173.gz" filename="2:2012bk01173" case.type="bk" filing.year="2012" sequence.number="01173" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01189.gz" filename="2:2012bk01189" case.type="bk" filing.year="2012" sequence.number="01189" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01175.gz" filename="2:2012bk01175" case.type="bk" filing.year="2012" sequence.number="01175" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01186.gz" filename="2:2012bk01186" case.type="bk" filing.year="2012" sequence.number="01186" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01183.gz" filename="2:2012bk01183" case.type="bk" filing.year="2012" sequence.number="01183" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01168.gz" filename="2:2012bk01168" case.type="bk" filing.year="2012" sequence.number="01168" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01188.gz" filename="2:2012bk01188" case.type="bk" filing.year="2012" sequence.number="01188" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk01169.gz" filename="2:2012bk01169" case.type="bk" filing.year="2012" sequence.number="01169" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwawbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41654.gz" filename="3:2012bk41654" case.type="bk" filing.year="2012" sequence.number="41654" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12550.gz" filename="2:2012bk12550" case.type="bk" filing.year="2012" sequence.number="12550" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41660.gz" filename="3:2012bk41660" case.type="bk" filing.year="2012" sequence.number="41660" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41681.gz" filename="3:2012bk41681" case.type="bk" filing.year="2012" sequence.number="41681" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41657.gz" filename="3:2012bk41657" case.type="bk" filing.year="2012" sequence.number="41657" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12534.gz" filename="2:2012bk12534" case.type="bk" filing.year="2012" sequence.number="12534" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41669.gz" filename="3:2012bk41669" case.type="bk" filing.year="2012" sequence.number="41669" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41665.gz" filename="3:2012bk41665" case.type="bk" filing.year="2012" sequence.number="41665" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41676.gz" filename="3:2012bk41676" case.type="bk" filing.year="2012" sequence.number="41676" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12536.gz" filename="2:2012bk12536" case.type="bk" filing.year="2012" sequence.number="12536" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12549.gz" filename="2:2012bk12549" case.type="bk" filing.year="2012" sequence.number="12549" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12531.gz" filename="2:2012bk12531" case.type="bk" filing.year="2012" sequence.number="12531" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12527.gz" filename="2:2012bk12527" case.type="bk" filing.year="2012" sequence.number="12527" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41650.gz" filename="3:2012bk41650" case.type="bk" filing.year="2012" sequence.number="41650" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41662.gz" filename="3:2012bk41662" case.type="bk" filing.year="2012" sequence.number="41662" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41645.gz" filename="3:2012bk41645" case.type="bk" filing.year="2012" sequence.number="41645" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41659.gz" filename="3:2012bk41659" case.type="bk" filing.year="2012" sequence.number="41659" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41678.gz" filename="3:2012bk41678" case.type="bk" filing.year="2012" sequence.number="41678" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12551.gz" filename="2:2012bk12551" case.type="bk" filing.year="2012" sequence.number="12551" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41653.gz" filename="3:2012bk41653" case.type="bk" filing.year="2012" sequence.number="41653" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12543.gz" filename="2:2012bk12543" case.type="bk" filing.year="2012" sequence.number="12543" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12539.gz" filename="2:2012bk12539" case.type="bk" filing.year="2012" sequence.number="12539" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12529.gz" filename="2:2012bk12529" case.type="bk" filing.year="2012" sequence.number="12529" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41649.gz" filename="3:2012bk41649" case.type="bk" filing.year="2012" sequence.number="41649" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12546.gz" filename="2:2012bk12546" case.type="bk" filing.year="2012" sequence.number="12546" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41679.gz" filename="3:2012bk41679" case.type="bk" filing.year="2012" sequence.number="41679" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41672.gz" filename="3:2012bk41672" case.type="bk" filing.year="2012" sequence.number="41672" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41646.gz" filename="3:2012bk41646" case.type="bk" filing.year="2012" sequence.number="41646" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41666.gz" filename="3:2012bk41666" case.type="bk" filing.year="2012" sequence.number="41666" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41655.gz" filename="3:2012bk41655" case.type="bk" filing.year="2012" sequence.number="41655" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12532.gz" filename="2:2012bk12532" case.type="bk" filing.year="2012" sequence.number="12532" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12544.gz" filename="2:2012bk12544" case.type="bk" filing.year="2012" sequence.number="12544" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12541.gz" filename="2:2012bk12541" case.type="bk" filing.year="2012" sequence.number="12541" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41668.gz" filename="3:2012bk41668" case.type="bk" filing.year="2012" sequence.number="41668" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12524.gz" filename="2:2012bk12524" case.type="bk" filing.year="2012" sequence.number="12524" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12548.gz" filename="2:2012bk12548" case.type="bk" filing.year="2012" sequence.number="12548" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12537.gz" filename="2:2012bk12537" case.type="bk" filing.year="2012" sequence.number="12537" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41674.gz" filename="3:2012bk41674" case.type="bk" filing.year="2012" sequence.number="41674" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41682.gz" filename="3:2012bk41682" case.type="bk" filing.year="2012" sequence.number="41682" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41663.gz" filename="3:2012bk41663" case.type="bk" filing.year="2012" sequence.number="41663" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41675.gz" filename="3:2012bk41675" case.type="bk" filing.year="2012" sequence.number="41675" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12540.gz" filename="2:2012bk12540" case.type="bk" filing.year="2012" sequence.number="12540" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41680.gz" filename="3:2012bk41680" case.type="bk" filing.year="2012" sequence.number="41680" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41648.gz" filename="3:2012bk41648" case.type="bk" filing.year="2012" sequence.number="41648" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12526.gz" filename="2:2012bk12526" case.type="bk" filing.year="2012" sequence.number="12526" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12553.gz" filename="2:2012bk12553" case.type="bk" filing.year="2012" sequence.number="12553" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12530.gz" filename="2:2012bk12530" case.type="bk" filing.year="2012" sequence.number="12530" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41664.gz" filename="3:2012bk41664" case.type="bk" filing.year="2012" sequence.number="41664" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41683.gz" filename="3:2012bk41683" case.type="bk" filing.year="2012" sequence.number="41683" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41651.gz" filename="3:2012bk41651" case.type="bk" filing.year="2012" sequence.number="41651" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41670.gz" filename="3:2012bk41670" case.type="bk" filing.year="2012" sequence.number="41670" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41656.gz" filename="3:2012bk41656" case.type="bk" filing.year="2012" sequence.number="41656" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41667.gz" filename="3:2012bk41667" case.type="bk" filing.year="2012" sequence.number="41667" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12523.gz" filename="2:2012bk12523" case.type="bk" filing.year="2012" sequence.number="12523" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12528.gz" filename="2:2012bk12528" case.type="bk" filing.year="2012" sequence.number="12528" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41658.gz" filename="3:2012bk41658" case.type="bk" filing.year="2012" sequence.number="41658" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12538.gz" filename="2:2012bk12538" case.type="bk" filing.year="2012" sequence.number="12538" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12533.gz" filename="2:2012bk12533" case.type="bk" filing.year="2012" sequence.number="12533" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41677.gz" filename="3:2012bk41677" case.type="bk" filing.year="2012" sequence.number="41677" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12547.gz" filename="2:2012bk12547" case.type="bk" filing.year="2012" sequence.number="12547" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41684.gz" filename="3:2012bk41684" case.type="bk" filing.year="2012" sequence.number="41684" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41671.gz" filename="3:2012bk41671" case.type="bk" filing.year="2012" sequence.number="41671" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41647.gz" filename="3:2012bk41647" case.type="bk" filing.year="2012" sequence.number="41647" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12535.gz" filename="2:2012bk12535" case.type="bk" filing.year="2012" sequence.number="12535" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12545.gz" filename="2:2012bk12545" case.type="bk" filing.year="2012" sequence.number="12545" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41661.gz" filename="3:2012bk41661" case.type="bk" filing.year="2012" sequence.number="41661" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41652.gz" filename="3:2012bk41652" case.type="bk" filing.year="2012" sequence.number="41652" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12525.gz" filename="2:2012bk12525" case.type="bk" filing.year="2012" sequence.number="12525" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12542.gz" filename="2:2012bk12542" case.type="bk" filing.year="2012" sequence.number="12542" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk12552.gz" filename="2:2012bk12552" case.type="bk" filing.year="2012" sequence.number="12552" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk41673.gz" filename="3:2012bk41673" case.type="bk" filing.year="2012" sequence.number="41673" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwiebkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23036.gz" filename="2:2012bk23036" case.type="bk" filing.year="2012" sequence.number="23036" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23018.gz" filename="2:2012bk23018" case.type="bk" filing.year="2012" sequence.number="23018" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23059.gz" filename="2:2012bk23059" case.type="bk" filing.year="2012" sequence.number="23059" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23050.gz" filename="2:2012bk23050" case.type="bk" filing.year="2012" sequence.number="23050" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23024.gz" filename="2:2012bk23024" case.type="bk" filing.year="2012" sequence.number="23024" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23062.gz" filename="2:2012bk23062" case.type="bk" filing.year="2012" sequence.number="23062" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23038.gz" filename="2:2012bk23038" case.type="bk" filing.year="2012" sequence.number="23038" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23026.gz" filename="2:2012bk23026" case.type="bk" filing.year="2012" sequence.number="23026" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23064.gz" filename="2:2012bk23064" case.type="bk" filing.year="2012" sequence.number="23064" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23016.gz" filename="2:2012bk23016" case.type="bk" filing.year="2012" sequence.number="23016" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23042.gz" filename="2:2012bk23042" case.type="bk" filing.year="2012" sequence.number="23042" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23032.gz" filename="2:2012bk23032" case.type="bk" filing.year="2012" sequence.number="23032" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23045.gz" filename="2:2012bk23045" case.type="bk" filing.year="2012" sequence.number="23045" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23020.gz" filename="2:2012bk23020" case.type="bk" filing.year="2012" sequence.number="23020" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23066.gz" filename="2:2012bk23066" case.type="bk" filing.year="2012" sequence.number="23066" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23046.gz" filename="2:2012bk23046" case.type="bk" filing.year="2012" sequence.number="23046" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23014.gz" filename="2:2012bk23014" case.type="bk" filing.year="2012" sequence.number="23014" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23053.gz" filename="2:2012bk23053" case.type="bk" filing.year="2012" sequence.number="23053" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23056.gz" filename="2:2012bk23056" case.type="bk" filing.year="2012" sequence.number="23056" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23068.gz" filename="2:2012bk23068" case.type="bk" filing.year="2012" sequence.number="23068" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23022.gz" filename="2:2012bk23022" case.type="bk" filing.year="2012" sequence.number="23022" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23048.gz" filename="2:2012bk23048" case.type="bk" filing.year="2012" sequence.number="23048" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23055.gz" filename="2:2012bk23055" case.type="bk" filing.year="2012" sequence.number="23055" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23061.gz" filename="2:2012bk23061" case.type="bk" filing.year="2012" sequence.number="23061" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23041.gz" filename="2:2012bk23041" case.type="bk" filing.year="2012" sequence.number="23041" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23034.gz" filename="2:2012bk23034" case.type="bk" filing.year="2012" sequence.number="23034" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23069.gz" filename="2:2012bk23069" case.type="bk" filing.year="2012" sequence.number="23069" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23058.gz" filename="2:2012bk23058" case.type="bk" filing.year="2012" sequence.number="23058" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23019.gz" filename="2:2012bk23019" case.type="bk" filing.year="2012" sequence.number="23019" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23030.gz" filename="2:2012bk23030" case.type="bk" filing.year="2012" sequence.number="23030" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23040.gz" filename="2:2012bk23040" case.type="bk" filing.year="2012" sequence.number="23040" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23037.gz" filename="2:2012bk23037" case.type="bk" filing.year="2012" sequence.number="23037" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23029.gz" filename="2:2012bk23029" case.type="bk" filing.year="2012" sequence.number="23029" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23051.gz" filename="2:2012bk23051" case.type="bk" filing.year="2012" sequence.number="23051" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23043.gz" filename="2:2012bk23043" case.type="bk" filing.year="2012" sequence.number="23043" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23017.gz" filename="2:2012bk23017" case.type="bk" filing.year="2012" sequence.number="23017" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23063.gz" filename="2:2012bk23063" case.type="bk" filing.year="2012" sequence.number="23063" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23039.gz" filename="2:2012bk23039" case.type="bk" filing.year="2012" sequence.number="23039" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23027.gz" filename="2:2012bk23027" case.type="bk" filing.year="2012" sequence.number="23027" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23052.gz" filename="2:2012bk23052" case.type="bk" filing.year="2012" sequence.number="23052" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23065.gz" filename="2:2012bk23065" case.type="bk" filing.year="2012" sequence.number="23065" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23023.gz" filename="2:2012bk23023" case.type="bk" filing.year="2012" sequence.number="23023" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23015.gz" filename="2:2012bk23015" case.type="bk" filing.year="2012" sequence.number="23015" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23044.gz" filename="2:2012bk23044" case.type="bk" filing.year="2012" sequence.number="23044" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23028.gz" filename="2:2012bk23028" case.type="bk" filing.year="2012" sequence.number="23028" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23033.gz" filename="2:2012bk23033" case.type="bk" filing.year="2012" sequence.number="23033" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23021.gz" filename="2:2012bk23021" case.type="bk" filing.year="2012" sequence.number="23021" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23047.gz" filename="2:2012bk23047" case.type="bk" filing.year="2012" sequence.number="23047" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23067.gz" filename="2:2012bk23067" case.type="bk" filing.year="2012" sequence.number="23067" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23054.gz" filename="2:2012bk23054" case.type="bk" filing.year="2012" sequence.number="23054" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23060.gz" filename="2:2012bk23060" case.type="bk" filing.year="2012" sequence.number="23060" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23049.gz" filename="2:2012bk23049" case.type="bk" filing.year="2012" sequence.number="23049" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23031.gz" filename="2:2012bk23031" case.type="bk" filing.year="2012" sequence.number="23031" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23025.gz" filename="2:2012bk23025" case.type="bk" filing.year="2012" sequence.number="23025" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23035.gz" filename="2:2012bk23035" case.type="bk" filing.year="2012" sequence.number="23035" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk23057.gz" filename="2:2012bk23057" case.type="bk" filing.year="2012" sequence.number="23057" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwiwbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11385.gz" filename="3:2012bk11385" case.type="bk" filing.year="2012" sequence.number="11385" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11358.gz" filename="3:2012bk11358" case.type="bk" filing.year="2012" sequence.number="11358" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11397.gz" filename="1:2012bk11397" case.type="bk" filing.year="2012" sequence.number="11397" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11374.gz" filename="1:2012bk11374" case.type="bk" filing.year="2012" sequence.number="11374" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11366.gz" filename="1:2012bk11366" case.type="bk" filing.year="2012" sequence.number="11366" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11376.gz" filename="3:2012bk11376" case.type="bk" filing.year="2012" sequence.number="11376" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11368.gz" filename="3:2012bk11368" case.type="bk" filing.year="2012" sequence.number="11368" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11372.gz" filename="1:2012bk11372" case.type="bk" filing.year="2012" sequence.number="11372" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11392.gz" filename="3:2012bk11392" case.type="bk" filing.year="2012" sequence.number="11392" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11391.gz" filename="3:2012bk11391" case.type="bk" filing.year="2012" sequence.number="11391" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11378.gz" filename="3:2012bk11378" case.type="bk" filing.year="2012" sequence.number="11378" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11370.gz" filename="1:2012bk11370" case.type="bk" filing.year="2012" sequence.number="11370" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11381.gz" filename="3:2012bk11381" case.type="bk" filing.year="2012" sequence.number="11381" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11361.gz" filename="1:2012bk11361" case.type="bk" filing.year="2012" sequence.number="11361" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11388.gz" filename="3:2012bk11388" case.type="bk" filing.year="2012" sequence.number="11388" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11373.gz" filename="3:2012bk11373" case.type="bk" filing.year="2012" sequence.number="11373" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11367.gz" filename="3:2012bk11367" case.type="bk" filing.year="2012" sequence.number="11367" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11360.gz" filename="1:2012bk11360" case.type="bk" filing.year="2012" sequence.number="11360" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11394.gz" filename="1:2012bk11394" case.type="bk" filing.year="2012" sequence.number="11394" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11383.gz" filename="1:2012bk11383" case.type="bk" filing.year="2012" sequence.number="11383" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11375.gz" filename="3:2012bk11375" case.type="bk" filing.year="2012" sequence.number="11375" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11390.gz" filename="3:2012bk11390" case.type="bk" filing.year="2012" sequence.number="11390" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11377.gz" filename="3:2012bk11377" case.type="bk" filing.year="2012" sequence.number="11377" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11382.gz" filename="3:2012bk11382" case.type="bk" filing.year="2012" sequence.number="11382" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11379.gz" filename="3:2012bk11379" case.type="bk" filing.year="2012" sequence.number="11379" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11398.gz" filename="1:2012bk11398" case.type="bk" filing.year="2012" sequence.number="11398" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11384.gz" filename="3:2012bk11384" case.type="bk" filing.year="2012" sequence.number="11384" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11387.gz" filename="3:2012bk11387" case.type="bk" filing.year="2012" sequence.number="11387" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11371.gz" filename="1:2012bk11371" case.type="bk" filing.year="2012" sequence.number="11371" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11396.gz" filename="3:2012bk11396" case.type="bk" filing.year="2012" sequence.number="11396" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11380.gz" filename="3:2012bk11380" case.type="bk" filing.year="2012" sequence.number="11380" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11364.gz" filename="1:2012bk11364" case.type="bk" filing.year="2012" sequence.number="11364" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11363.gz" filename="3:2012bk11363" case.type="bk" filing.year="2012" sequence.number="11363" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11386.gz" filename="1:2012bk11386" case.type="bk" filing.year="2012" sequence.number="11386" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11362.gz" filename="1:2012bk11362" case.type="bk" filing.year="2012" sequence.number="11362" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11369.gz" filename="1:2012bk11369" case.type="bk" filing.year="2012" sequence.number="11369" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11359.gz" filename="1:2012bk11359" case.type="bk" filing.year="2012" sequence.number="11359" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk11365.gz" filename="3:2012bk11365" case.type="bk" filing.year="2012" sequence.number="11365" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11395.gz" filename="1:2012bk11395" case.type="bk" filing.year="2012" sequence.number="11395" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11389.gz" filename="1:2012bk11389" case.type="bk" filing.year="2012" sequence.number="11389" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk11393.gz" filename="1:2012bk11393" case.type="bk" filing.year="2012" sequence.number="11393" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwvnbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk00348.gz" filename="1:2012bk00348" case.type="bk" filing.year="2012" sequence.number="00348" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00344.gz" filename="3:2012bk00344" case.type="bk" filing.year="2012" sequence.number="00344" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk00341.gz" filename="1:2012bk00341" case.type="bk" filing.year="2012" sequence.number="00341" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk00347.gz" filename="2:2012bk00347" case.type="bk" filing.year="2012" sequence.number="00347" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00342.gz" filename="3:2012bk00342" case.type="bk" filing.year="2012" sequence.number="00342" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00349.gz" filename="3:2012bk00349" case.type="bk" filing.year="2012" sequence.number="00349" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00350.gz" filename="3:2012bk00350" case.type="bk" filing.year="2012" sequence.number="00350" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00345.gz" filename="3:2012bk00345" case.type="bk" filing.year="2012" sequence.number="00345" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk00346.gz" filename="3:2012bk00346" case.type="bk" filing.year="2012" sequence.number="00346" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="1:2012bk00343.gz" filename="1:2012bk00343" case.type="bk" filing.year="2012" sequence.number="00343" subfolder="/2012" filing.location="1" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwvsbkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk30153.gz" filename="3:2012bk30153" case.type="bk" filing.year="2012" sequence.number="30153" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="4:2012bk40045.gz" filename="4:2012bk40045" case.type="bk" filing.year="2012" sequence.number="40045" subfolder="/2012" filing.location="4" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="5:2012bk50056.gz" filename="5:2012bk50056" case.type="bk" filing.year="2012" sequence.number="50056" subfolder="/2012" filing.location="5" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20158.gz" filename="2:2012bk20158" case.type="bk" filing.year="2012" sequence.number="20158" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="3:2012bk30152.gz" filename="3:2012bk30152" case.type="bk" filing.year="2012" sequence.number="30152" subfolder="/2012" filing.location="3" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="4:2012bk40046.gz" filename="4:2012bk40046" case.type="bk" filing.year="2012" sequence.number="40046" subfolder="/2012" filing.location="4" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+			<court westlaw.cluster.name="n_dwybkr" acquisition.status="success" court.type="BKR">
+				<acquired.dockets>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20199.gz" filename="2:2012bk20199" case.type="bk" filing.year="2012" sequence.number="20199" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20198.gz" filename="2:2012bk20198" case.type="bk" filing.year="2012" sequence.number="20198" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20196.gz" filename="2:2012bk20196" case.type="bk" filing.year="2012" sequence.number="20196" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20200.gz" filename="2:2012bk20200" case.type="bk" filing.year="2012" sequence.number="20200" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20197.gz" filename="2:2012bk20197" case.type="bk" filing.year="2012" sequence.number="20197" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20202.gz" filename="2:2012bk20202" case.type="bk" filing.year="2012" sequence.number="20202" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+					<acquired.docket.status status="captured">
+						<bkr.docket docket.number="2:2012bk20201.gz" filename="2:2012bk20201" case.type="bk" filing.year="2012" sequence.number="20201" subfolder="/2012" filing.location="2" subdivision=""/>
+					</acquired.docket.status>
+				</acquired.dockets>
+	</court>
+	
+</new.acquisition.record>

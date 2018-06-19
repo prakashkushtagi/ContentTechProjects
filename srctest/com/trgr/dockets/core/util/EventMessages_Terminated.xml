@@ -1,0 +1,23 @@
+<event.collection>
+<event.data>
+<event.id>255553</event.id>
+<event.type>SYSTEM.EVENT</event.type>
+<event.publisher>LTC</event.publisher>
+<event.text>
+<ltc.load.event>
+<load.collection id="5038" envid="2">w_ltc_test4</load.collection>
+<load.groups>
+<load.group id="25">LTC Test</load.group>
+<load.group id="60">Extract</load.group>
+<load.group id="69">STG</load.group>
+</load.groups>
+<load.status id="10">Terminated</load.status>
+<load.element id="35">Novus Load</load.element>
+<system.message>Process terminated by 25144.</system.message>
+<load.dataset id="82618" load.request.id="58784" request.collaboration.key="LTC-25144-D050923-1">LTC_Training_BadFile_01.xml</load.dataset>
+</ltc.load.event>
+</event.text>
+<event.datetime>2005-09-23 10:02:07.017</event.datetime>
+<subscription.collaboration.key>QueueTest1</subscription.collaboration.key>
+</event.data>
+</event.collection>

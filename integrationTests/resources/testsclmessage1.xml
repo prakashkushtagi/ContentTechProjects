@@ -1,0 +1,10 @@
+	<sourceLoadRequest>
+	  <acquisitionMethod>PROSPECTIVE</acquisitionMethod>
+	  <acquisitionStart>26102012161756</acquisitionStart>
+	  <acquisitionType>DAILY</acquisitionType>
+	  <batchId>I54d845c0ec8911e1a40800219b684256</batchId>
+	  <deleteFlag>false</deleteFlag>
+	  <productCode>FBR</productCode>
+	  <sourceFile>/dockets/testLoad/AZBKR_200_doc_extract+1.nxo</sourceFile>
+	</sourceLoadRequest>
+

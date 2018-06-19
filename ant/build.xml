@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<!-- Copyright 2013: Thomson Reuters Global Resources. All Rights Reserved. Proprietary and Confidential information of TRGR. Disclosure, Use or Reproduction without the written authorization of TRGR is prohibited.-->
+<project name="DocketsCore" basedir=".." default="main">
+
+	<property file="../DocketsCore/ant/build.properties"/>
+
+  	<path id="compile.classpath">
+    	<fileset dir="lib">
+      		<include name="**/*.jar"/>
+    	</fileset>
+  	</path>
+
+  	<target name="main" depends="clean, init,copyFiles,compile, createDocketsCoreJar">
+    	<echo level="info" message="Build complete" />
+  	</target>
+	<!-- main with unit-->
+  	<target name="mainWithUnit" depends="clean, init,copyFiles,compile,compileUnitTests, runTests, createDocketsCoreJar">
+    	<echo level="info" message="Build complete" />
+  	</target>
+    		
+	<!-- main with unit and Integration test -->
+  	<target name="mainWithUnitIntegration" depends="clean, init,copyFiles,compile,compileUnitTests,compileIntegrationTests, runTests, createDocketsCoreJar">
+    	<echo level="info" message="Build complete" />
+  	</target>
+
+  	<target name="init" >
+    	<mkdir dir="${dir.target}"/>
+  		<mkdir dir="${dir.sandbox}"/>
+  		<mkdir dir="${dir.test.classes}"/>
+  		<mkdir dir="${dir.test.results}"/>
+  	</target>
+	
+	<target name="copyFiles">
+  		<copy todir="${dir.sandbox}">
+  		   <fileset dir="${dir.source}" 
+  		    excludes="**/*.java"/>
+  		</copy>
+	</target>
+	
+  	<target name="compile">
+  	    <javac destdir="${dir.sandbox}"
+  	    	   	source="${java.source.version}" target="${java.target.version}"
+  	    		debug="${java.debug}" includeantruntime="false">
+			<src path="${dir.source}"/>
+			<classpath refid="compile.classpath"/>
+  	    </javac>
+  	</target>
+	
+  	<target name="compileUnitTests">
+  		<ant antfile="ant/build-tests.xml" target="compileUnitTests"/>
+  	</target> 
+	
+	<target name="compileIntegrationTests">
+			<ant antfile="../${proj.core}/ant/build-tests.xml" target="compileIntegrationTests"/>
+	</target>
+
+	<target name="runTests">
+		<echo>Running DocketsCore unit-integration tests</echo>
+		<ant antfile="../${proj.core}/ant/build-tests.xml" target="runTests"/>
+	</target>
+	
+	<target name="createDocketsCoreJar" >
+		<jar jarfile="${dir.target}/${proj.core}.jar" basedir="${dir.sandbox}"
+			 manifest="${dir.source}/META-INF/MANIFEST.MF"/>		
+	</target>
+
+	<target name="clean">
+		<delete dir="${dir.sandbox}"/>
+		<delete dir="${dir.target}"/>
+		<delete dir="${dir.test}"/>
+	</target>
+</project>

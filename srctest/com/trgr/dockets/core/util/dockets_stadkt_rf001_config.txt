@@ -1,0 +1,22 @@
+<workflow.config>
+	<components>
+		<component name="bermuda.properties">
+			<parameter name="propfile" value="/nas/sdgshared/rpx/client/bermuda_properties/bermuda_dockets_stadkt_15.properties"/>
+		</component>
+		<component name="relloader.properties">
+			<parameter name="datatype" value="metadata_profiler"/>
+			<parameter name="release.flag" value="001"/>
+		</component>
+		<component name="relpub.properties">
+			<parameter name="datatype" value="profiler_dockets" reference.id="1"/>
+		</component>
+		<component name="ltc.properties">
+			<parameter name="ltc.load" value="args">
+				<arg name="datatype.name" value="pf_placebo"/>
+				<arg name="file.resource" value="rpx_ltcuser_uat"/>
+				<arg name="novus.env" value="-CLIENT"/>
+				<arg name="id_reference" value="1" />
+			</parameter>
+		</component>
+  	</components>
+</workflow.config>

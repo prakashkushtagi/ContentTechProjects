@@ -1,0 +1,6 @@
+<n-load>
+<n-document control="ADD"><test>test1</test></n-document>
+<n-document control="ADD"><test>test2</test></n-document>
+<n-document control="ADD"><test>test3</test></n-document>
+<n-document control="ADD"><test>test4</test></n-document>
+</n-load>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE n-load SYSTEM "feddctdocket-product.dtd">
+<n-load dataid="FEDDCKT">
+	<n-document control="ADD" guid="I2393DF1CD75F11DBAFC6849DC347959A">
+		<n-metadata>
+			<metadata.block>
+				<md.identifiers>
+					<md.westlawids>
+						<md.docketnum>MDL NO. 2308</md.docketnum>
+					</md.westlawids>
+					<md.uuid>I2393DF1CD75F11DBAFC6849DC347959A</md.uuid>
+					<md.legacy.id>JPML2308</md.legacy.id>
+				</md.identifiers>
+				<md.infotype>DOCKET</md.infotype>
+				<md.descriptions>
+					<md.title>IN RE: SKECHERS TONING SHOE PRODUCTS LIABILITY LITIGATION</md.title>
+				</md.descriptions>
+				<md.dates>
+					<md.filedate>20110930</md.filedate>
+					<md.createddatetime>20111211080430</md.createddatetime>
+				</md.dates>
+				<md.subjects>
+					<md.subject>
+						<md.doctype.name>1L</md.doctype.name>
+						<md.doctype.rank>0035</md.doctype.rank>
+					</md.subject>
+				</md.subjects>
+				<md.contributors>
+					<md.judge>JUDGE JAMES V. SELNA</md.judge>
+					<md.attorney>MELANIE M YANG</md.attorney>
+					<md.attorney>MELANIE M YANG</md.attorney>
+					<md.attorney>ASSISTANT US ATTORNEY SA-CV</md.attorney>
+					<md.attorney>ASSISTANT US ATTORNEY SA-CV</md.attorney>
+					<md.attorney>ASSISTANT US ATTORNEY SA-CV</md.attorney>
+					<md.attorney>ASSISTANT US ATTORNEY SA-CV</md.attorney>
+				</md.contributors>
+				<md.jurisdictions>
+					<md.jurisdiction>
+						<md.jurisnum>2680</md.jurisnum>
+						<md.juriscourt>2680</md.juriscourt>
+						<md.jurisstate>FE</md.jurisstate>
+						<md.jurisabbrev>JPML</md.jurisabbrev>
+						<md.jurislevel>TRIAL</md.jurislevel>
+					</md.jurisdiction>
+				</md.jurisdictions>
+				<md.publications>
+					<md.publication>
+						<md.pubid>176979</md.pubid>
+					</md.publication>
+					<md.publicationgroup>TRIALDOC</md.publicationgroup>
+					<md.sourcepubid>176979</md.sourcepubid>
+				</md.publications>
+				<md.royalty>
+					<md.royalty.code>DCK</md.royalty.code>
+					<md.royalty.number>16388</md.royalty.number>
+				</md.royalty>
+			</metadata.block>
+			<prism-stylesheet guid="IA3E769F1000000F7AB273F7AD786F6D9"></prism-stylesheet>
+			<prism-clipdate>20111211223052</prism-clipdate>
+		</n-metadata>
+		<n-docbody>
+			<r r1="RETCHEN M NELSON" r2="ROBERT MUELLER, III DIRECTOR, FEDERAL BUREAU OF INVESTIGATION" roy="16388">
+				<bop/>
+				<bos/>
+				<p>FEDERAL DCT DOCKETS</p>
+				<pc>DCK</pc>
+				<legacy.id>JPML2308</legacy.id>
+				<case.type>MDL</case.type>
+				<data.source.type>ECF</data.source.type>
+				<scrape.date>20070427</scrape.date>
+				<c>
+					<case.number>MDL NO. 2308</case.number>
+					<court.norm normalized="FEDJPML">FEDJPML</court.norm>
+				</c>
+				<col.key>N_DFEDJPML</col.key>
+				<cluster.name>N_DFEDJPML</cluster.name>
+				<state.source>MDL</state.source>
+				<court.block>
+					<label>Court:</label>
+					<court>Judicial Panel on Multidistrict Litigation</court>
+					<court.pretty>Jud.Pan.Mult.Lit.</court.pretty>
+					<court.citelist>U.S. JUD. PAN. MULTIDIST. LIT.</court.citelist>
+				</court.block>
+				<title.block>
+					<label>Case Title:</label>
+					<primary.title>IN RE; SKECHERS TONING SHOE PRODUCTS LIABILITY LITIGATION</primary.title>
+				</title.block>
+				<docket.block>
+					<label>Case:</label>
+					<docket.number>MDL NO. 2308</docket.number>
+				</docket.block>
+				<panel.block>
+					<label>Judge:</label>
+					<judge>JUDGE <cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00001">JAMES V. SELNA</cite.query>
+					</judge>
+				</panel.block>
+				<filing.date.block>
+					<label>Date Filed:</label>
+					<filing.date>20110930</filing.date>
+				</filing.date.block>
+				<convert.date>201101211</convert.date>
+				<platform>ECF</platform>
+				<case.status.block>
+					<label>Case Status:</label>
+					<case.status.flag>TRANSFERRED</case.status.flag>
+				</case.status.block>
+				<published.opinion.block>
+					<label>Published Opinion:</label>
+					<published.opinion.number>
+						<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00002">755 F.Supp.2d 1359</cite.query>
+					</published.opinion.number>
+				</published.opinion.block>
+				<lead.case.block>
+					<label>Lead MDL Case:</label>
+					<lead.case.number>
+						<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00003">KYW/3:11-md-02308</cite.query>
+					</lead.case.number>
+				</lead.case.block>
+				<mdl.jurisdiction.block>
+					<label>MDL Jurisdiction:</label>
+					<mdl.jurisdiction>W.D. Kentucky</mdl.jurisdiction>
+					<mdl.jurisdiction.number>12345</mdl.jurisdiction.number>
+				</mdl.jurisdiction.block>
+				<jpml.assoc.case.block>
+					<label>Associated Cases:</label>
+					<jpml.assoc.case>MDL Associated Cases</jpml.assoc.case>
+					<assoc.case.block>
+						<label>JPML Docket Number</label>
+						<label>Case Name/Status</label>
+						<label>Start Date</label>
+						<label>End Date</label>
+						<label>Original District</label>
+						<label>Original Docket Number</label>
+						<assoc.case.entry>
+							<docket.number>
+								<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00004">TNM/3:12-cv-00326</cite.query>
+							</docket.number>
+							<case.name>(Pending)</case.name>
+							<start.date>4/3/2012</start.date>
+							<end.date>4/3/2012</end.date>
+							<original.case.block>
+								<original.district>M.D. Tennessee</original.district>
+								<original.jurisdiction.number>5678</original.jurisdiction.number>
+								<original.docket.number>
+#include dist?								<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00005">TNM/3:12-cv-00326</cite.query>
+								</original.docket.number>
+							</original.case.block>
+						</assoc.case.entry>
+						<assoc.case.entry>
+							<docket.number>
+								<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00006">DC/1:11-cv-01458</cite.query>
+							</docket.number>
+							<case.name>CROAK et al</case.name>
+							<start.date>9/30/2011</start.date>
+							<end.date>12/19/2011</end.date>
+							<original.case.block>
+								<original.district>District of Columbia</original.district>
+#remove?							<original.jurisdiction.number>90123</original.jurisdiction.number>
+								<original.docket.number>
+#include dist?								<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00007">DC/1:11-cv-01458</cite.query>
+								</original.docket.number>
+							</original.case.block>
+						</assoc.case.entry>
+					</assoc.case.block>
+				</jpml.assoc.case.block>
+				<mdl.member.case.block>
+					<label>MDL Member Cases</label>
+					<mdl.member.case>MDL Member Cases</mdl.member.case>
+					<member.case.block>
+						<label>Case Name</label>
+						<label>Start Date</label>
+						<label>End Date</label>
+						<label>MDL Docket Number</label>
+						<member.case.entry>
+							<case.name>Croak et al v.Skechers, U.S.A., Inc. et al</case.name>
+							<start.date>12/20/2011</start.date>
+							<end.date/>
+							<docket.number>
+#include dist?							<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00008">DC/3:12-cv-00033</cite.query>
+							</docket.number>
+						</member.case.entry>
+						<member.case.entry>
+							<case.name>Delzoppo-Patel v.Skechers, USA, Inc. et al</case.name>
+							<start.date>1/17/2012</start.date>
+							<end.date/>
+							<docket.number>
+#include district						<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00009">DC/3:11-cv-00699</cite.query>
+							</docket.number>
+						</member.case.entry>
+					</member.case.block>
+					<related.case.block>
+						<label>Related Cases</label>
+						<label>Start date</label>
+						<label>End Date</label>
+						<label>MDL Docket Number</label>
+						<member.case.entry>
+							<case.name>Stanley et al v. Skechers USA. Inc et al</case.name>
+							<start.date>8/14/2012</start.date>
+							<end.date/>
+							<docket.number>
+#include district						<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="00010">DC/1:11-cv-01070</cite.query>
+							</docket.number>
+						</member.case.entry>
+						<member.case.entry>
+							<case.name>Wilson v. Skechers USA. Inc et al</case.name>
+							<start.date>8/21/2012</start.date>
+							<end.date/>
+							<docket.number>
+#include district						<cite.query ID="I278898e007c811dd81b48b40faa765aa" w-normalized-cite="0331072101" w-ref-type="RQ" w-seq-number="000011">DC/3:11-cv-01042</cite.query>
+							</docket.number>
+						</member.case.entry>
+					</related.case.block>
+				</mdl.member.case.block>
+				<summary>
+					<case.number.block>
+						<label>Case Number:</label>
+						<case.number>MDL NO. 2308</case.number>
+					</case.number.block>
+					<nature.of.suit.block>
+						<label>Nature of Suit:</label>
+						<nature.of.suit>Intellectual</nature.of.suit>
+					</nature.of.suit.block>
+				</summary>
+				<higher.court.information>
+					<sct.jurisdiction.number>3630</sct.jurisdiction.number>
+				</higher.court.information>
+				<party.block>
+					<plaintiff.party>
+						<party.type>Liaison Counsel for Plaintiff</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Plaintiff:</label>
+							<party.name>GRETCHEN M NELSON</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I283f3eb007c811dd81b48b40faa765aa" w-normalized-cite="0342580801" w-ref-type="RQ" w-seq-number="00004">MELANIE M YANG</cite.query>
+							</attorney.name>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>MELANIE M YANG LAW OFFICES</firm.name>
+							</firm.name.block>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>701 SOUTH ATLANTIC BOULEVARD, SUITE 200</street>
+								<city>MONTEREY PARK</city>
+								<state>CA</state>
+								<zip>91754</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>626-284-8832</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</plaintiff.party>
+					<plaintiff.party>
+						<party.type>Liaison Counsel for Plaintiff</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Plaintiff:</label>
+							<party.name>JIAYE LIU AN INDIVIDUAL</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I2869f83007c811dd81b48b40faa765aa" w-normalized-cite="0342580801" w-ref-type="RQ" w-seq-number="00005">MELANIE M YANG</cite.query>
+							</attorney.name>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>MELANIE M YANG LAW OFFICES</firm.name>
+							</firm.name.block>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>701 SOUTH ATLANTIC BOULEVARD, SUITE 200</street>
+								<city>MONTEREY PARK</city>
+								<state>CA</state>
+								<zip>91754</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>626-284-8832</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</plaintiff.party>
+					<plaintiff.party>
+						<party.name.block>
+							<label>Plaintiff:</label>
+							<party.name>JANE MIDDLE DOES </party.name>
+						</party.name.block>
+					</plaintiff.party>
+					<defendant.party>
+						<party.type>Liaison Counsel for Defendant</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Defendant:</label>
+							<party.name>ROBERT MUELLER, III DIRECTOR, FEDERAL BUREAU OF INVESTIGATION</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I286e3df007c811dd81b48b40faa765aa" w-normalized-cite="unk" w-ref-type="NP" w-seq-number="00006">ASSISTANT US ATTORNEY SA-CV</cite.query>
+							</attorney.name>
+							<attorney.email>USACAC.SACIVIL@USDOJ.GOV</attorney.email>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>AUSA - OFFICE OF US ATTORNEY</firm.name>
+							</firm.name.block>
+							<firm.address.combined>SANTA ANA BRANCH-CIVIL DIV</firm.address.combined>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>411 W 4TH ST STE 8000</street>
+								<city>SANTA ANA</city>
+								<state>CA</state>
+								<zip>92701-4599</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>714-338-3500</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</defendant.party>
+					<defendant.party>
+						<party.type>Liaison Counsel for Defendant</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Defendant:</label>
+							<party.name>MICHAEL CHERTOFF SECRETARY FOR DEPARTMENT OF HOMELAND SECURITY</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I2871e77007c811dd81b48b40faa765aa" w-normalized-cite="unk" w-ref-type="NP" w-seq-number="00007">ASSISTANT US ATTORNEY SA-CV</cite.query>
+							</attorney.name>
+							<attorney.email>USACAC.SACIVIL@USDOJ.GOV</attorney.email>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>AUSA - OFFICE OF US ATTORNEY</firm.name>
+							</firm.name.block>
+							<firm.address.combined>SANTA ANA BRANCH-CIVIL DIV</firm.address.combined>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>411 W 4TH ST STE 8000</street>
+								<city>SANTA ANA</city>
+								<state>CA</state>
+								<zip>92701-4599</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>714-338-3500</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</defendant.party>
+					<defendant.party>
+						<party.type>Liaison Counsel for Defendant</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Defendant:</label>
+							<party.name>EMILIO T GONZALEZ DIRECTOR OF THE US CITIZENSHIP AND IMMIGRATION SERVICES</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I2875df1007c811dd81b48b40faa765aa" w-normalized-cite="unk" w-ref-type="NP" w-seq-number="00008">ASSISTANT US ATTORNEY SA-CV</cite.query>
+							</attorney.name>
+							<attorney.email>USACAC.SACIVIL@USDOJ.GOV</attorney.email>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>AUSA - OFFICE OF US ATTORNEY</firm.name>
+							</firm.name.block>
+							<firm.address.combined>SANTA ANA BRANCH-CIVIL DIV</firm.address.combined>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>411 W 4TH ST STE 8000</street>
+								<city>SANTA ANA</city>
+								<state>CA</state>
+								<zip>92701-4599</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>714-338-3500</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</defendant.party>
+					<defendant.party>
+						<party.type>Liaison Counsel for Defendant</party.type>
+						<party.name.block>
+							<label>Liaison Counsel for Defendant:</label>
+							<party.name>JANE ARRELLANO DISTRICT DIRECTOR OF USCIS, LOS ANGELES DISTRICT OFFICE</party.name>
+						</party.name.block>
+						<party.attorney.block>
+							<label>Attorney ASSIGNED:</label>
+							<attorney.name>
+								<cite.query ID="I287ac11007c811dd81b48b40faa765aa" w-normalized-cite="unk" w-ref-type="NP" w-seq-number="00009">ASSISTANT US ATTORNEY SA-CV</cite.query>
+							</attorney.name>
+							<attorney.email>USACAC.SACIVIL@USDOJ.GOV</attorney.email>
+							<firm.name.block>
+								<label>Firm Name:</label>
+								<firm.name>AUSA - OFFICE OF US ATTORNEY</firm.name>
+							</firm.name.block>
+							<firm.address.combined>SANTA ANA BRANCH-CIVIL DIV</firm.address.combined>
+							<firm.address.block>
+								<label>Attorney Address:</label>
+								<street>411 W 4TH ST STE 8000</street>
+								<city>SANTA ANA</city>
+								<state>CA</state>
+								<zip>92701-4599</zip>
+							</firm.address.block>
+							<firm.phone.block>
+								<label>Attorney Phone:</label>
+								<firm.phone>714-338-3500</firm.phone>
+							</firm.phone.block>
+						</party.attorney.block>
+					</defendant.party>
+					<defendant.party>
+						<party.name.block>
+							<label>Defendant:</label>
+							<party.name>JANE DOE</party.name>
+						</party.name.block>
+					</defendant.party>
+				</party.block>
+				<docket.entries.block>
+					<label>Entry #:</label>
+					<label>Date:</label>
+					<label>Description:</label>
+					<docket.entry>
+						<number.block>
+							<number>4</number>
+							<image.block>
+								<image.gateway.link casenumber="8:07cv00265" court="CACDCT-DW" image.ID="4|384817|||||27;court=CACDCT-DW;casenumber=8:07cv00265" item.type="main" platform="ecf"/>
+								<gateway.image.link ID="A4384817" casenumber="8:07cv00265" court="CACDCT-DW" item.type="main" key="4|384817|||||27;court=CACDCT-DW;casenumber=8:07cv00265" tlr-class="gateway-image-link" ttype="ecf"/>
+							</image.block>
+						</number.block>
+						<date>03/28/2007</date>
+						<docket.description>INITIAL ORDER FOLLOWING FOLLOWING FILING OF COMPLAINT ASSIGNED TO JUDGE SELNA(DMJR, ) (ENTERED: 03/29/2007)</docket.description>
+					</docket.entry>
+					<docket.entry>
+						<number.block>
+							<number>3</number>
+							<image.block>
+								<image.gateway.link casenumber="0:11cv62514" court="FLSDCT-DW" image.ID="4|390831|||;court=FLSDCT-DW;casenumber=0:11cv62514" item.type="main" platform="ecf"></image.gateway.link>
+								<gateway.image.link ID="A18-4/cgi-bin/show_doc.pl?add_padlock=0&amp;caseid=390831&amp;de_seq_num=20&amp;dm_id=9491001&amp;doc_num=4&amp;pdf_header=2&apos; id=&apos;documentKadd_padlockV0KcaseidV390831Kde_seq_numV20Kdm_idV9491001Kdoc_numV4Kpdf_headerV2" casenumber="0:11cv62514" court="FLSDCT-DW" item.type="main" key="4|390831|||;court=FLSDCT-DW;casenumber=0:11cv62514" tlr-class="gateway-image-link" ttype="ecf"></gateway.image.link>
+							</image.block>
+						</number.block>
+						<date>11/28/2011</date>
+						<docket.description>ORDER SETTING JURY TRIAL FOR 8/13/2012 09:00 AM BEFORE JUDGE JAMES I. COHN., CALENDAR CALL FOR 8/9/2012 09:00 AM BEFORE JUDGE JAMES I. COHN.), ORDER REFERRING CASE TO MAGISTRATE JUDGE BARRY S. SELTZER FOR SCHEDULING MATTERS AND PRETRIAL DISCOVERY PROCEEDINGS. SIGNED BY JUDGE JAMES I. COHN ON 11/28/2011. (TP) (ENTERED: 11/28/2011)</docket.description>
+					</docket.entry>
+					<docket.entry>
+						<number.block>
+							<number>2</number>
+							<image.block>
+								<image.gateway.link casenumber="0:11cv62514" court="FLSDCT-DW" image.ID="3|390831|||;court=FLSDCT-DW;casenumber=0:11cv62514" item.type="main" platform="ecf"></image.gateway.link>
+								<gateway.image.link ID="A20-3/cgi-bin/show_doc.pl?add_padlock=0&amp;caseid=390831&amp;de_seq_num=18&amp;dm_id=9487912&amp;doc_num=3&amp;pdf_header=2&apos; id=&apos;documentKadd_padlockV0KcaseidV390831Kde_seq_numV18Kdm_idV9487912Kdoc_numV3Kpdf_headerV2" casenumber="0:11cv62514" court="FLSDCT-DW" item.type="main" key="3|390831|||;court=FLSDCT-DW;casenumber=0:11cv62514" tlr-class="gateway-image-link" ttype="ecf"></gateway.image.link>
+							</image.block>
+						</number.block>
+						<date>11/28/2011</date>
+						<docket.description>MOTION TO COMPEL ARBITRATION UNDER THE FEDERAL ARBITRATION ACT BY CATAMARAN SALES, INC.. RESPONSES DUE BY 12/15/2011 (ATTACHMENTS: #	
+							<image.gateway.link casenumber="0:11CV62514" court="FLSDCT-DW" image.id="godls|051110106017;court=FLSDCT-DW;casenumber=0:11CV62514" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+							<gateway.image.link ID="B19-1-051110106017" casenumber="0:11CV62514" court="FLSDCT-DW" item.type="ATTACHMENT" key="godls|051110106017;court=FLSDCT-DW;casenumber=0:11CV62514" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>							 EXHIBIT)(HATIC, HAAS) (ENTERED: 11/28/2011)</docket.description>
+					</docket.entry>
+					<docket.entry>
+						<date>03/05/2007</date>
+						<docket.description>20 DAY SUMMONS ISSUED RE COMPLAINT - (DISCOVERY)[1] AS TO EMILIO T GONZALEZ, JANE ARRELLANO, JANE DOES, ROBERT MUELLER, III, MICHAEL CHERTOFF. (DMJR, ) (ENTERED: 03/20/2007)</docket.description>
+					</docket.entry>
+					<docket.entry>
+						<number.block>
+							<number>1</number>
+						</number.block>
+						<date>03/05/2007</date>
+						<docket.description>COMPLAINT AGAINST DEFENDANTS EMILIO T GONZALEZ, JANE ARRELLANO, JANE DOES, ROBERT MUELLER, III, MICHAEL CHERTOFF.(FILING FEE $ 350), FILED BY PLAINTIFFS JIANMING WANG, JIAYE LIU.(DMJR, ) (ENTERED: 03/20/2007)</docket.description>
+					</docket.entry>
+				</docket.entries.block>
+			</r>
+		</n-docbody>
+	</n-document>
+</n-load>
+

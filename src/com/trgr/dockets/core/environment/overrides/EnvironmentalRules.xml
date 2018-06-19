@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2016: Thomson Reuters. All Rights Reserved. Proprietary and Confidential information of Thomson Reuters. Disclosure, Use or Reproduction without the written authorization of Thomson Reuters is prohibited. -->
+
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<!--format is: entry key is vendor+county id, then COUNTY_NAME|OVERRIDE_FILTER_CHAIN_NAME|ENVIRONMENTS_TO_APPLY (semi-colon separated)-->
+<properties>
+	<entry key="46">stateDocketsFilterChain|workstation;dev;test;uat;qa;prod</entry>
+</properties>

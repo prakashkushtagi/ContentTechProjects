@@ -1,0 +1,23 @@
+<event.collection>
+   <event.data>
+      <event.id>255540</event.id>
+      <event.type>SYSTEM.EVENT</event.type>
+      <event.publisher>LTC</event.publisher>
+      <event.text>
+         <ltc.load.event>
+            <load.collection id="5038" envid="2">w_ltc_test4</load.collection>
+               <load.groups>
+                  <load.group id="25">LTC Test</load.group>
+                  <load.group id="60">Extract</load.group>
+                  <load.group id="69">STG</load.group>
+               </load.groups>
+               <load.status id="6">Completed</load.status>
+               <load.element id="35">Novus Load</load.element>
+               <system.message>Load to w_ltc_test4 stage 6411 for file /novus/data/client/wl/ltctest4//LoadAPITestFile_MQ.xml complete, Load elapsed time 2521 ms, size 38036 bytes, LoadManagerServ 10, Number: Add=9 Delete=0 Total=9. Distribution elapsed time 37 ms, distribution server 10. Total elapsed time 3886 ms.</system.message>
+               <load.dataset id="82617" load.request.id="58784" request.collaboration.key="LTC-25144-D050923-1">LoadAPITestFile_MQ.xml</load.dataset>
+         </ltc.load.event>
+      </event.text>
+      <event.datetime>2005-09-23 09:57:35.343</event.datetime>
+      <subscription.collaboration.key>QueueTest1</subscription.collaboration.key>
+   </event.data>
+</event.collection>

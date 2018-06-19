@@ -1,0 +1,1692 @@
+<n-document guid="I871312BACD3011DBAF8DAFD7EE2B8B26">
+	<n-metadata>
+		<metadata.block>
+			<md.identifiers>
+				<md.westlawids>
+					<md.docketnum>6:07CV00111</md.docketnum>
+					<md.docketnum>6:07-CV-00111</md.docketnum>
+				</md.westlawids>
+				<md.uuid>I871312BACD3011DBAF8DAFD7EE2B8B26</md.uuid>
+			</md.identifiers>
+			<md.infotype>DOCKET</md.infotype>
+			<md.descriptions>
+				<md.title>BROADCAST MUSIC INC ET AL V. B &amp; L INC ET AL</md.title>
+				<md.doc.family.uuid>I871312BCCD3011DBAF8DAFD7EE2B8B26</md.doc.family.uuid>
+			</md.descriptions>
+			<md.dates>
+				<md.filedate>20070307</md.filedate>
+				<md.createddatetime>20140603201309</md.createddatetime>
+			</md.dates>
+			<md.subjects>
+				<md.subject>
+					<md.doctype.name>1L</md.doctype.name>
+					<md.doctype.rank>0035</md.doctype.rank>
+				</md.subject>
+			</md.subjects>
+			<md.contributors>
+				<md.judge>JUDGE MICHAEL H. SCHNEIDER</md.judge>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>LISA HAYES MEYERHOFF</md.attorney>
+				<md.attorney>GRANT TEAFF GASTON</md.attorney>
+				<md.attorney>STEPHEN MILES SPITZER</md.attorney>
+				<md.attorney>GRANT TEAFF GASTON</md.attorney>
+				<md.attorney>STEPHEN MILES SPITZER</md.attorney>
+				<md.attorney>GRANT TEAFF GASTON</md.attorney>
+				<md.attorney>STEPHEN MILES SPITZER</md.attorney>
+			</md.contributors>
+			<md.jurisdictions>
+				<md.jurisdiction>
+					<md.jurisnum>1106</md.jurisnum>
+					<md.juriscourt>E.D.TEX.</md.juriscourt>
+					<md.jurisstate>FE</md.jurisstate>
+					<md.jurisabbrev>TX-EDCT</md.jurisabbrev>
+					<md.jurislevel>TRIAL</md.jurislevel>
+				</md.jurisdiction>
+			</md.jurisdictions>
+			<md.publications>
+				<md.publication>
+					<md.pubid>177070</md.pubid>
+				</md.publication>
+				<md.publicationgroup>TRIALDOC</md.publicationgroup>
+				<md.sourcepubid>177070</md.sourcepubid>
+			</md.publications>
+			<md.royalty>
+				<md.royalty.code>DCK</md.royalty.code>
+				<md.royalty.number>25016</md.royalty.number>
+			</md.royalty>
+		</metadata.block>
+		<prism-stylesheet guid="IA3E769F1000000F7AB273F7AD786F6D9"/>
+		<prism-clipdate>20070307224529</prism-clipdate>
+	</n-metadata>
+	<n-docbody>
+		<r r1="BROADCAST MUSIC INC" r2="B &amp; L INC DOING BUSINESS AS IRON HORSE SALOON FORMERLY KNOWN AS CHAPS" roy="25016">
+			<bop/>
+			<bos/>
+			<p>FEDERAL DCT DOCKETS</p>
+			<pc>DCK</pc>
+			<legacy.id>TX-EDCT6:07CV00111</legacy.id>
+			<case.type>CIVIL</case.type>
+			<data.source.type>ECF</data.source.type>
+			<scrape.date>20101124</scrape.date><c>
+				<case.number office="6" sequence="00111" type="cv" year="2007">6:07CV00111</case.number>
+				<court.norm normalized="TXEDCT">TX-EDCT</court.norm>
+			</c>
+			<col.key>CIV</col.key>
+			<cluster.name>N_DTXEDCT</cluster.name>
+			<state.source>TX</state.source>
+			<court.block>
+				<label>Court:</label>
+				<court>U.S. DISTRICT COURT, EASTERN DISTRICT OF TEXAS (TYLER)</court>
+				<court.pretty>E.D.TEX.</court.pretty>
+				<court.citelist>TX U.S. DIST. CT., EAST</court.citelist>
+			</court.block>
+			<title.block>
+				<label>Case Title:</label>
+				<primary.title>
+					<cite.query ID="I74c36850eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::BROADCAST MUSIC INC" w-ref-type="OM" w-seq-number="00001">BROADCAST MUSIC INC</cite.query> ET AL v. <cite.query ID="I74c36851eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::B AND L INC" w-ref-type="OM" w-seq-number="00002">B &amp; L INC</cite.query> ET AL</primary.title>
+			</title.block>
+			<docket.block>
+				<label>Case:</label>
+				<docket.number office="6" sequence="00111" type="cv" year="2007">6:07-CV-00111</docket.number>
+			</docket.block>
+			<panel.block>
+				<label>Judge:</label>
+				<judge>JUDGE <cite.query ID="I74cae260eb9311e38d20bcd500b89d21" w-normalized-cite="tie" w-ref-type="NP" w-seq-number="00003">MICHAEL H. SCHNEIDER</cite.query>
+				</judge>
+			</panel.block>
+			<filing.date.block>
+				<label>Date Filed:</label>
+				<filing.date>20070307</filing.date>
+			</filing.date.block>
+			<closed.date.block>
+				<label>Date Closed/Terminated:</label>
+				<closed.date>20080220</closed.date>
+			</closed.date.block>
+			<convert.date>20140603</convert.date>
+			<platform>ECF</platform>
+			<case.status.block>
+				<label>Case Status:</label>
+				<case.status.flag>CLOSED, MEDIATION</case.status.flag>
+			</case.status.block>
+			<summary>
+				<case.number.block>
+					<label>Case Number:</label>
+					<case.number office="6" sequence="00111" type="cv" year="2007">6:07CV00111</case.number>
+					<case.number.hidden>6:07CV00111 6:2007CV00111 6:0700111 6:200700111 07-CV-00111 2007-CV-00111 07CV00111 2007CV00111 07-00111 2007-00111 07-CV-00111 6:07CV0111 6:2007CV0111 6:070111 6:20070111 07-CV-0111 2007-CV-0111 07CV0111 2007CV0111 07-0111 2007-0111 07-CV-0111 6:07CV111 6:2007CV111 6:07111 6:2007111 07-CV-111 2007-CV-111 07CV111 2007CV111 07-111 2007-111 07-CV-111 6:07CV00111 6:2007CV00111 6:0700111 6:200700111 07-CV-00111 2007-CV-00111 07CV00111 2007CV00111 07-00111 2007-00111 07-CV-00111 6:07CV00111 6:2007CV00111 6:0700111 6:200700111 07-CV-00111 2007-CV-00111 07CV00111 2007CV00111 07-00111 2007-00111 07-CV-00111</case.number.hidden>
+				</case.number.block>
+				<jury.demand.block>
+					<label>Jury Demand:</label>
+					<jury.demand>PLAINTIFF</jury.demand>
+				</jury.demand.block>
+				<nature.of.suit.block>
+					<label>Nature of Suit:</label>
+					<nature.of.suit>PROPERTY RIGHTS:  COPYRIGHTS  (820)</nature.of.suit>
+					<nature.of.suit.code>820</nature.of.suit.code>
+				</nature.of.suit.block>
+				<key.nature.of.suit.block>
+					<knos.level1.block>
+						<label>Key Nature of Suit:</label>
+						<knos.level1>INTELLECTUAL PROPERTY</knos.level1>
+					</knos.level1.block>
+					<knos.level2.block>
+						<label>Key Nature of Suit:</label>
+						<knos.level2>COPYRIGHT</knos.level2>
+					</knos.level2.block>
+					<knos.code>260.05</knos.code>
+				</key.nature.of.suit.block>
+				<jurisdiction.block>
+					<label>Jurisdiction:</label>
+					<jurisdiction>FEDERAL QUESTION</jurisdiction>
+				</jurisdiction.block>
+				<cause.block>
+					<label>Cause:</label>
+					<cause>
+						<cite.query ID="I74d0d5d0eb9311e38d20bcd500b89d21" w-normalized-cite="17USCAS101" w-pub-number="1000546" w-ref-type="LQ" w-seq-number="00004">17 USC 101</cite.query> COPYRIGHT INFRINGEMENT</cause>
+				</cause.block>
+			</summary>
+			<higher.court.information>
+				<cta.jurisdiction.number>2025</cta.jurisdiction.number>
+				<sct.jurisdiction.number>3630</sct.jurisdiction.number>
+			</higher.court.information>
+			<party.block>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I74d2aa90eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::BROADCAST MUSIC INC" w-ref-type="OM" w-seq-number="00005">BROADCAST MUSIC INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I74dbab40eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00006">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I74e6ced0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SONY" w-ref-type="OM" w-seq-number="00007">SONY</cite.query>/<cite.query ID="I74e6ced1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::ATV SONGS LLC" w-ref-type="ON" w-seq-number="00008">ATV SONGS LLC</cite.query>
+							<cite.query ID="I74e6ced2eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00009">DOING BUSINESS</cite.query> AS <cite.query ID="I74e6ced3eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SONY ATV TREEPUBLISHING" w-ref-type="ON" w-seq-number="00010">SONY ATV TREEPUBLISHING</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I74f044b0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00011">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I74f526b0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::WARNER TAMERLANE PUBLISHING CORP" w-ref-type="OM" w-seq-number="00012">WARNER-TAMERLANE PUBLISHING CORP</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I74fec3a0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00013">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I7509e730eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::ROBERT J RITCHIE INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00014">ROBERT J RITCHIE INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I7509e731eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::THIRTY TWO MILE MUSIC" w-ref-type="ON" w-seq-number="00015">THIRTY TWO MILE MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I751be890eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00016">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I7526e510eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SHERYL SUZANNE CROW INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00017">SHERYL SUZANNE CROW INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I7526e511eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::OLD CROW MUSIC" w-ref-type="ON" w-seq-number="00018">OLD CROW MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I754b5d00eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00019">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I75519e90eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::AUDIGRAM SONGS INC" w-ref-type="ON" w-seq-number="00020">AUDIGRAM SONGS INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I75704a20eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00021">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I75774f00eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::FANTASY INC" w-ref-type="OM" w-seq-number="00022">FANTASY INC</cite.query>
+							<cite.query ID="I75774f01eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00023">DOING BUSINESS</cite.query> AS <cite.query ID="I75774f02eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::JONDORA MUSIC" w-ref-type="OM" w-seq-number="00024">JONDORA MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I7595ac70eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00025">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I759d2680eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SONY" w-ref-type="OM" w-seq-number="00026">SONY</cite.query>/<cite.query ID="I759d2681eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::ATV SONGS LLC" w-ref-type="ON" w-seq-number="00027">ATV SONGS LLC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I75c4f9d0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00028">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I75ce48a0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::RONNIE GENE DUNN DOING BUSINESS" w-ref-type="ON" w-seq-number="00029">RONNIE GENE DUNN DOING BUSINESS</cite.query> AS <cite.query ID="I75ce48a1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SHOWBILLY MUSIC" w-ref-type="ON" w-seq-number="00030">SHOWBILLY MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I75df86b0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00031">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I75e441a0eb9311e38d20bcd500b89d21" w-normalized-cite="5000233504" w-ref-type="OA" w-seq-number="00032">ELEKSYLUM MUSIC INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I75f558a0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00033">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I75fd20d0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::NO SURRENDER MUSIC A DIVISION OF PRAXIS INTERNATIONAL COMMUNICATIONS INC" w-ref-type="ON" w-seq-number="00034">NO SURRENDER MUSIC A DIVISION OF PRAXIS INTERNATIONAL COMMUNICATIONS INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I760a8e50eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00035">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I7614ee90eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::JAMES W BUFFETT INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00036">JAMES W BUFFETT INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I7614ee91eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::CORAL REEFER MUSIC" w-ref-type="ON" w-seq-number="00037">CORAL REEFER MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I762457e0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00038">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I762912d0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::FOURTEENTH HOUR MUSIC INC" w-ref-type="OM" w-seq-number="00039">FOURTEENTH HOUR MUSIC INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I76409270eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00040">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I76452650eb9311e38d20bcd500b89d21" w-normalized-cite="IDCEAEFE445E311DD89820014224D2780" w-ref-type="OG" w-seq-number="00041">SPRINGTIME MUSIC INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I7653cc50eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00042">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I765c09b0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SONGS OF UNIVERSAL INC" w-ref-type="ON" w-seq-number="00043">SONGS OF UNIVERSAL INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I7672ed10eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00044">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I767c62f0eb9311e38d20bcd500b89d21" w-normalized-cite="4295894751" w-ref-type="OA" w-seq-number="00045">EMI VIRGIN SONGS INC</cite.query>
+							<cite.query ID="I767c62f1eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00046">DOING BUSINESS</cite.query> AS <cite.query ID="I767c62f2eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::EMI LONGITUDE MUSIC" w-ref-type="ON" w-seq-number="00047">EMI LONGITUDE MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I768f27a0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00048">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I76939470eb9311e38d20bcd500b89d21" w-normalized-cite="5008765170" w-ref-type="OA" w-seq-number="00049">GREGMARK MUSIC INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I769e1bc0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00050">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I76aee4a0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::BERNITA WALKER MOSS INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00051">BERNITA WALKER-MOSS INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I76aee4a1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::LORD AND WALKER PUBLISHING" w-ref-type="ON" w-seq-number="00052">LORD AND WALKER PUBLISHING</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I76c097e0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00053">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I76cccce0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::SONY" w-ref-type="OM" w-seq-number="00054">SONY</cite.query>/<cite.query ID="I76cccce1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::ATV SONGS LLC" w-ref-type="ON" w-seq-number="00055">ATV SONGS LLC</cite.query>
+							<cite.query ID="I76cccce2eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00056">DOING BUSINESS</cite.query> AS SONY/<cite.query ID="I76cccce3eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::ATV ACUFF ROSE MUSIC" w-ref-type="ON" w-seq-number="00057">ATV ACUFF ROSE MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I76e11830eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00058">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I76e9f1d0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::TOBY KEITH COVEL INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00059">TOBY KEITH COVEL INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I76e9f1d1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::TOKECO TUNES" w-ref-type="ON" w-seq-number="00060">TOKECO TUNES</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I76f7fb90eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00061">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I7703e270eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::BIG YELLOW DOG LLC" w-ref-type="OM" w-seq-number="00062">BIG YELLOW DOG LLC</cite.query>
+							<cite.query ID="I77040980eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00063">DOING BUSINESS</cite.query> AS <cite.query ID="I77040981eb9311e38d20bcd500b89d21" w-normalized-cite="5007560555" w-ref-type="OA" w-seq-number="00064">BIG YELLOW DOG MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I770f7b30eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00065">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I771a0280eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::W SCOTT EMERICK INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00066">W SCOTT EMERICK INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I771a0281eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::FLORIDA CRACKER MUSIC" w-ref-type="ON" w-seq-number="00067">FLORIDA CRACKER MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I772d1550eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00068">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I77385ff0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::M MARSHALL CHAPMAN INDIVIDUAL DOING BUSINESS" w-ref-type="ON" w-seq-number="00069">M MARSHALL CHAPMAN INDIVIDUAL DOING BUSINESS</cite.query> AS <cite.query ID="I77385ff1eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::TALL GIRL MUSIC" w-ref-type="ON" w-seq-number="00070">TALL GIRL MUSIC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I774642a0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00071">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<plaintiff.party>
+					<party.type>Plaintiff</party.type>
+					<party.name.block>
+						<label>Plaintiff:</label>
+						<party.name>
+							<cite.query ID="I774e31e0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::CAREERS BMG MUSIC PUBLISHING INC" w-ref-type="ON" w-seq-number="00072">CAREERS-BMG MUSIC PUBLISHING INC</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I775eaca0eb9311e38d20bcd500b89d21" w-normalized-cite="0184483201" w-ref-type="RQ" w-seq-number="00073">LISA HAYES MEYERHOFF</cite.query>
+						</attorney.name>
+						<attorney.email>LISA.MEYERHOFF@BAKERMCKENZIE.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>BAKER &amp; MCKENZIE, LLP</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>2300 TRAMMELL CROW CENTER</street>
+							<street>2001 ROSS AVENUE</street>
+							<city>DALLAS</city>
+							<state>TX</state>
+							<zip>75201</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>214-978-3035</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>214-978-3099</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</plaintiff.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77684990eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::B AND L INC" w-ref-type="OM" w-seq-number="00074">B &amp; L INC</cite.query>
+							<cite.query ID="I77684991eb9311e38d20bcd500b89d21" w-normalized-cite="5041044393" w-ref-type="OA" w-seq-number="00075">DOING BUSINESS</cite.query> AS <cite.query ID="I77684992eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::IRON HORSE SALOON FORMERLY KNOWN" w-ref-type="ON" w-seq-number="00076">IRON HORSE SALOON FORMERLY KNOWN</cite.query> AS CHAPS</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I777987a0eb9311e38d20bcd500b89d21" w-normalized-cite="0360523101" w-ref-type="RQ" w-seq-number="00077">GRANT TEAFF GASTON</cite.query>
+						</attorney.name>
+						<attorney.email>GGASTON@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I779acb40eb9311e38d20bcd500b89d21" w-normalized-cite="0194806801" w-ref-type="RQ" w-seq-number="00078">STEPHEN MILES SPITZER</cite.query>
+						</attorney.name>
+						<attorney.email>SSPITZER@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</defendant.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77a0e5c0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::DEBBIE STEARMAN" w-ref-type="ON" w-seq-number="00079">DEBBIE STEARMAN</cite.query>
+						</party.name>
+					</party.name.block>
+				</defendant.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77a46830eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::DONNEL STEARMAN" w-ref-type="ON" w-seq-number="00080">DONNEL STEARMAN</cite.query>
+						</party.name>
+					</party.name.block>
+				</defendant.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77a70040eb9311e38d20bcd500b89d21" w-normalized-cite="5023747819" w-ref-type="OA" w-seq-number="00081">LEON HANSON</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I77bcf940eb9311e38d20bcd500b89d21" w-normalized-cite="0360523101" w-ref-type="RQ" w-seq-number="00082">GRANT TEAFF GASTON</cite.query>
+						</attorney.name>
+						<attorney.email>GGASTON@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I77daba70eb9311e38d20bcd500b89d21" w-normalized-cite="0194806801" w-ref-type="RQ" w-seq-number="00083">STEPHEN MILES SPITZER</cite.query>
+						</attorney.name>
+						<attorney.email>SSPITZER@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</defendant.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77e14a20eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::JENNIFER VALERO" w-ref-type="ON" w-seq-number="00084">JENNIFER VALERO</cite.query>
+						</party.name>
+					</party.name.block>
+				</defendant.party>
+				<defendant.party>
+					<party.type>Defendant</party.type>
+					<party.name.block>
+						<label>Defendant:</label>
+						<party.name>
+							<cite.query ID="I77e4f3a0eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::BILLIE ODANIEL" w-ref-type="ON" w-seq-number="00085">BILLIE O&apos;DANIEL</cite.query>
+						</party.name>
+					</party.name.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I77fff5b0eb9311e38d20bcd500b89d21" w-normalized-cite="0360523101" w-ref-type="RQ" w-seq-number="00086">GRANT TEAFF GASTON</cite.query>
+						</attorney.name>
+						<attorney.email>GGASTON@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+					<party.attorney.block>
+						<label>Attorney(s):</label>
+						<attorney.name>
+							<cite.query ID="I781b1ed0eb9311e38d20bcd500b89d21" w-normalized-cite="0194806801" w-ref-type="RQ" w-seq-number="00087">STEPHEN MILES SPITZER</cite.query>
+						</attorney.name>
+						<attorney.email>SSPITZER@COWLESTHOMPSON.COM</attorney.email>
+						<firm.name.block>
+							<label>Firm Name:</label>
+							<firm.name>COWLES &amp; THOMPSON - TYLER</firm.name>
+						</firm.name.block>
+						<firm.address.block>
+							<label>Attorney Address:</label>
+							<street>1202 FIRST PLACE</street>
+							<city>TYLER</city>
+							<state>TX</state>
+							<zip>75702</zip>
+						</firm.address.block>
+						<firm.phone.block>
+							<label>Attorney Phone:</label>
+							<firm.phone>903-596-9000</firm.phone>
+						</firm.phone.block>
+						<firm.fax.block>
+							<label>Attorney Fax:</label>
+							<firm.fax>903-596-9005</firm.fax>
+						</firm.fax.block>
+					</party.attorney.block>
+				</defendant.party>
+				<other.party>
+					<party.type>Mediator</party.type>
+					<party.name.block>
+						<label>Mediator:</label>
+						<party.name>
+							<cite.query ID="I781e7a30eb9311e38d20bcd500b89d21" w-normalized-cite="canonical_name::JAMES W KNOWLES" w-ref-type="ON" w-seq-number="00088">JAMES W KNOWLES</cite.query>
+						</party.name>
+					</party.name.block>
+				</other.party>
+			</party.block>
+			<docket.entries.block>
+				<label>Entry #:</label>
+				<label>Date:</label>
+				<label>Description:</label>
+				<docket.entry>
+					<number.block>
+						<number>34</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="34|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A1-34/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=180&amp;dm_id=2238720&amp;doc_num=34&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV180Kdm_idV2238720Kdoc_numV34Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="34|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/24/2008</date>
+					<docket.description>ORDER THAT ALL CLAIMS ASSERTED BY PLTFS AGAINST DEFTS DEBBIE STEARMAN AND DONNELL STEARMAN IN THIS ACTION ARE DISMISSED WITHOUT PREJUDICE. EACH PARTY SHALL BEAR ITS OWN COSTS, EXPENSES, AND ATTY FEES. ALL RELIEF NOT EXPRESSLY GRANTED HEREIN IS EXPRESSLY DENIED. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 03/24/08. CC:ATTYS 3-24-08(MLL, ) (ENTERED: 03/24/2008)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>33</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="33|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A3-33/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=178&amp;dm_id=2236093&amp;doc_num=33&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV178Kdm_idV2236093Kdoc_numV33Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="33|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/20/2008</date>
+					<docket.description>NOTICE BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, TOBY KEITH COVEL, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE OF DISMISSAL WITHOUT PREJUDICE OF DEBBIE STEARMAN AND DONNELL STEARMAN (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17511727748;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B2-1-17511727748" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17511727748;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link> TEXT OF PROPOSED ORDER)(MEYERHOFF, LISA) (ENTERED: 03/20/2008)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>32</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="32|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A4-32/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=176&amp;dm_id=2187676&amp;doc_num=32&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV176Kdm_idV2187676Kdoc_numV32Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="32|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>02/20/2008</date>
+					<docket.description>FINAL JUDGMENT. ALL RELIEF NOT PREVIOUSLY GRANTED IS HEREBY DENIED. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 02/20/08. CC:ATTYS 2-20-08(MLL, ) (ENTERED: 02/20/2008)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>31</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="31|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A6-31/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=174&amp;dm_id=2182400&amp;doc_num=31&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV174Kdm_idV2182400Kdoc_numV31Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="31|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>02/15/2008</date>
+					<docket.description>STIPULATION OF DISMISSAL (JOINT) BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, TOBY KEITH COVEL, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512167975;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B5-1-17512167975" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512167975;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link> TEXT OF PROPOSED ORDER)(MEYERHOFF, LISA) (ENTERED: 02/15/2008)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>30</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="30|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A7-30/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=172&amp;dm_id=2172550&amp;doc_num=30&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV172Kdm_idV2172550Kdoc_numV30Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="30|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>02/07/2008</date>
+					<docket.description>ORDER THAT THE COURT HEREBY PUTS ALL PARTIES ON NOTICE THAT THE COURT WILL DISMISS THIS CASE UNLESS GOOD CAUSE IS SHOWN BY 3/8/2008 AS TO WHY IT SHOULD REMAIN ON THE COURT&apos;S DOCKET. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 2/7/2008. (RVW, ) (ENTERED: 02/08/2008)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>29</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="29|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A9-29/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=169&amp;dm_id=2100365&amp;doc_num=29&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV169Kdm_idV2100365Kdoc_numV29Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="29|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>12/19/2007</date>
+					<docket.description>ORDER WITHDRAWING #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751403224;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">28</image.gateway.link>
+						<gateway.image.link ID="B8-28-1751403224" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751403224;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">28</gateway.image.link> ORDER REQUIRING PARTIES TO FILE ALL PAPERS NECESSARY FOR CLOSING THIS CASE. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 12/19/2007. (RVW, ) (ENTERED: 12/19/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>28</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="28|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A11-28/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=167&amp;dm_id=2097912&amp;doc_num=28&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV167Kdm_idV2097912Kdoc_numV28Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="28|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>12/17/2007</date>
+					<docket.description>&quot;WITHDRAWN BY ORDER #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512578714;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">29</image.gateway.link>
+						<gateway.image.link ID="B10-29-17512578714" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512578714;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">29</gateway.image.link> &quot; ORDER THAT ALL PARTIES SHALL SUBMIT TO THE COURT ALL PAPERS NECESSARY FOR THE CLOSING OF THIS CASE ON OR BEFORE 1-18-08. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 12/17/07. CC:ATTYS 12-18-07(MLL, ) MODIFIED ON 12/19/2007 (RVW, ). (ENTERED: 12/18/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>27</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="27|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A12-27/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=165&amp;dm_id=2094551&amp;doc_num=27&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV165Kdm_idV2094551Kdoc_numV27Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="27|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>12/14/2007</date>
+					<docket.description>STIPULATION OF SETTLEMENT (JOINT) BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, TOBY KEITH COVEL, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE. (MEYERHOFF, LISA) (ENTERED: 12/14/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<send.runner.link indexvalue="1"/>
+					<date>11/30/2007</date>
+					<docket.description>RESET SCHEDULING ORDER DEADLINES PER<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512132781;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">26</image.gateway.link>
+						<gateway.image.link ID="B13-26-17512132781" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512132781;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">26</gateway.image.link> ORDER: FINAL PRETRIAL CONFERENCE SET FOR 4/7/2008 09:00 AM BEFORE JUDGE MICHAEL H. SCHNEIDER. JURY SELECTION AND TRIAL SCHEDULING TO BE ANNOUNCED AT THE PRETRIAL CONFERENCE. DISCOVERY DUE BY 12/20/2007. IDENTIFY TRIAL WITNESSES BY 1/25/2008. JURY INSTRUCTIONS DUE BY 3/21/2008. MEDIATION COMPLETION DUE BY 1/15/2008. DISPOSITIVE MOTIONS DUE BY 2/1/2008; MOTIONS IN LIMINE DUE 3-21-08. PROPOSED PRETRIAL ORDER DUE BY 3/21/2008. VIDEO DEPOSITION DESIGNATION DUE 2-29-08. (MLL, ) (ENTERED: 11/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>26</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="26|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A15-26/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=161&amp;dm_id=2071082&amp;doc_num=26&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV161Kdm_idV2071082Kdoc_numV26Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="26|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/30/2007</date>
+					<docket.description>ORDER GRANTING IN PART AND DENYING IN PART<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17501692273;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">22</image.gateway.link>
+						<gateway.image.link ID="B14-22-17501692273" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17501692273;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">22</gateway.image.link> MOTION FOR EXTENSION OF TIME TO COMPLETE DISCOVERY. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 11/29/07. CC:ATTYS 11-30-07(MLL, ) (ENTERED: 11/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>25</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="25|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A16-25/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=159&amp;dm_id=2066636&amp;doc_num=25&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV159Kdm_idV2066636Kdoc_numV25Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="25|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/29/2007</date>
+					<docket.description>MINUTE ENTRY FOR PROCEEDINGS HELD BEFORE JUDGE MICHAEL H. SCHNEIDER : STATUS CONFERENCE HELD ON 11/29/2007. (COURT REPORTER JAN MASON.) (LGP, ) (ENTERED: 11/29/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<send.runner.link indexvalue="2"/>
+					<date>11/26/2007</date>
+					<docket.description>SET DEADLINES/HEARINGS: STATUS CONFERENCE SET FOR 11/29/2007 09:30 AM IN CTRM 102 (TYLER) BEFORE JUDGE MICHAEL H. SCHNEIDER. (LGP, ) (ENTERED: 11/26/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>24</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="24|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A17-24/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=155&amp;dm_id=2060001&amp;doc_num=24&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV155Kdm_idV2060001Kdoc_numV24Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="24|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/26/2007</date>
+					<docket.description>ORDER FOR STATUS CONFERENCE TO BE HELD ON THURSDAY, NOVEMBER 29, 2007 AT 9:30 AM AT THE UNITED STATES COURTHOUSE, 221 WEST FERGUSON, TYLER, TEXAS. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 11/26/2007. (LGP, ) (ENTERED: 11/26/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>23</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="23|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A19-23/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=153&amp;dm_id=2055447&amp;doc_num=23&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV153Kdm_idV2055447Kdoc_numV23Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="23|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/20/2007</date>
+					<docket.description>ORDER DENYING<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1750390971;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">21</image.gateway.link>
+						<gateway.image.link ID="B18-21-1750390971" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1750390971;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">21</gateway.image.link> MOTION FOR LEAVE TO WITHDRAW AS ATTORNEY. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 11/20/07. CC:ATTYS 11-20-07 (MLL, ) (ENTERED: 11/20/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>22</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="22|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A21-22/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=124&amp;dm_id=2054659&amp;doc_num=22&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV124Kdm_idV2054659Kdoc_numV22Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="22|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/20/2007</date>
+					<docket.description>JOINT MOTION FOR EXTENSION OF TIME TO COMPLETE DISCOVERY &amp; STIPULATION TO ENLARGE TIME FOR DEFENDANTS TO RESPOND TO WRITTEN DISCOVERY BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, TOBY KEITH COVEL, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, B &amp; L INC, LEON HANSON, BILLIE O&apos;DANIEL, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17511692698;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B20-1-17511692698" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17511692698;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link> TEXT OF PROPOSED ORDER)(SPITZER, STEPHEN) (ENTERED: 11/20/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>21</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="21|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A23-21/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=122&amp;dm_id=2049024&amp;doc_num=21&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV122Kdm_idV2049024Kdoc_numV21Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="21|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/16/2007</date>
+					<docket.description>MOTION FOR LEAVE TO FILE WITHDRAW AS ATTORNEY IN CHARGE/MEMORANDUM IN SUPPORT OF MOTION BY B &amp; L INC, LEON HANSON, BILLIE O&apos;DANIEL. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751391093;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B22-1-1751391093" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751391093;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link> TEXT OF PROPOSED ORDER)(SPITZER, STEPHEN) (ENTERED: 11/16/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<send.runner.link indexvalue="3"/>
+					<date>11/16/2007</date>
+					<docket.description>NOTICE OF DEFICIENCY REGARDING<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1750803033;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">20</image.gateway.link>
+						<gateway.image.link ID="B24-20-1750803033" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1750803033;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">20</gateway.image.link> MOTION FOR LEAVE TO WITHDRAW AS ATTORNEY IN CHARGE SUBMITTED BY B &amp; L INC. DOES NOT CONTAIN A CERTIFICATE OF CONFERENCE. (RVW, ) (ENTERED: 11/16/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>20</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="20|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A26-20/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=118&amp;dm_id=2047713&amp;doc_num=20&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV118Kdm_idV2047713Kdoc_numV20Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="20|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>11/15/2007</date>
+					<docket.description>&quot;DEFICIENT DOCUMENT&quot; &quot;DOES NOT CONTAIN CERT OF CONF, DOCUMENT TO BE REFILED CORRECTING DEFICIENCY&quot; MOTION FOR LEAVE TO FILE WITHDRAW AS ATTORNEY IN CHARGE/MEMORANDUM IN SUPPORT BY B &amp; L INC, LEON HANSON, BILLIE O&apos;DANIEL. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751803003;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B25-1-1751803003" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751803003;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link> TEXT OF PROPOSED ORDER)(SPITZER, STEPHEN) MODIFIED ON 11/16/2007 (RVW, ). (ENTERED: 11/15/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<send.runner.link indexvalue="4"/>
+					<date>09/25/2007</date>
+					<docket.description>CASE REFERRED TO MEDIATOR. JAMES W KNOWLES ADDED AS MEDIATOR. (MLL, ) (ENTERED: 09/25/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>19</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="19|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A27-19/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=113&amp;dm_id=1969661&amp;doc_num=19&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV113Kdm_idV1969661Kdoc_numV19Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="19|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>09/25/2007</date>
+					<docket.description>SCHEDULING ORDER: FINAL PRETRIAL CONFERENCE SET FOR 4/7/2008 09:00 AM BEFORE JUDGE MICHAEL H. SCHNEIDER. JURY SELECTION AND TRIAL SCHEDULING TO BE ANNOUNCED AT THE PRETRIAL CONFERENCE. AMENDED PLEADINGS DUE BY 8/10/2007. DISCOVERY DUE BY 12/3/2007. EXPERT WITNESS LIST DUE BY 9/14/2007 FOR PLTF, 9-28-07 FOR DEFT. IDENTIFY TRIAL WITNESSES BY 1/11/2008 FOR ALL PARTIES. JOINDER OF PARTIES DUE BY 8/10/2007. JURY INSTRUCTIONS DUE BY 2/1/2008. MEDIATION COMPLETION DUE BY 2/2/2008. JIM KNOWLES IS APPOINTED MEDIATOR IN THIS CASE. DISPOSITIVE MOTIONS DUE BY 1/18/2008; MOTIONS IN LIMINE DUE 2-1-08. PROPOSED PRETRIAL ORDER DUE BY 2/1/2008. VIDEO DEPOSITION DESIGNATION DUE 1-18-08. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 09/25/07. CC:ATTYS 9-25-07(MLL, ) (ENTERED: 09/25/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>18</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="18|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A28-18/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=111&amp;dm_id=1968392&amp;doc_num=18&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV111Kdm_idV1968392Kdoc_numV18Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="18|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>09/25/2007</date>
+					<docket.description>MINUTE ENTRY FOR PROCEEDINGS HELD BEFORE JUDGE MICHAEL H. SCHNEIDER : SCHEDULING CONFERENCE HELD ON 9/25/2007. (COURT REPORTER JAN MASON.) (LGP, ) (ENTERED: 09/25/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>17</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="17|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A29-17/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=109&amp;dm_id=1953956&amp;doc_num=17&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV109Kdm_idV1953956Kdoc_numV17Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="17|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>09/14/2007</date>
+					<docket.description>NOTICE BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE AND DEFENDANTS OF JOINT PROPOSED CONTENTS FOR SCHEDULING ORDER (MEYERHOFF, LISA) (ENTERED: 09/14/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>16</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="16|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A30-16/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=107&amp;dm_id=1937774&amp;doc_num=16&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV107Kdm_idV1937774Kdoc_numV16Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="16|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>09/05/2007</date>
+					<docket.description>NOTICE OF DISCLOSURE BY B &amp; L INC, LEON HANSON, BILLIE O&apos;DANIEL (SPITZER, STEPHEN) (ENTERED: 09/05/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>15</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="15|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A31-15/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=105&amp;dm_id=1937275&amp;doc_num=15&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV105Kdm_idV1937275Kdoc_numV15Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="15|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>09/04/2007</date>
+					<docket.description>NOTICE BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE OF PLAINTIFFS&apos; CERTIFICATE OF INITIAL DISCLOSURES (MEYERHOFF, LISA) (ENTERED: 09/04/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>14</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="14|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A32-14/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=103&amp;dm_id=1895415&amp;doc_num=14&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV103Kdm_idV1895415Kdoc_numV14Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="14|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>08/09/2007</date>
+					<docket.description>CLERK&apos;S ENTRY OF DEFAULT AS TO JENNIFER VALERO (MLL, ) (ENTERED: 08/09/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>13</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="13|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A33-13/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=101&amp;dm_id=1895398&amp;doc_num=13&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV101Kdm_idV1895398Kdoc_numV13Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="13|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>08/09/2007</date>
+					<docket.description>CLERK&apos;S ENTRY OF DEFAULT AS TO DEBBIE STEARMAN (MLL, ) (ENTERED: 08/09/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>12</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="12|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A38-12/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=99&amp;dm_id=1891478&amp;doc_num=12&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV99Kdm_idV1891478Kdoc_numV12Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="12|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>08/07/2007</date>
+					<docket.description>REQUEST BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE FOR CLERK&apos;S ENTRY OF DEFAULT AGAINST JENNIFER VALERO. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512094259;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B34-1-17512094259" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512094259;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>AFFIDAVIT OF TAN PHAM#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512103044;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+						<gateway.image.link ID="B35-2-17512103044" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512103044;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>EXHIBIT A#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512102382;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+						<gateway.image.link ID="B36-3-17512102382" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512102382;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>EXHIBIT B#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512099260;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">4</image.gateway.link>
+						<gateway.image.link ID="B37-4-17512099260" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512099260;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">4</gateway.image.link> PROPOSED ENTRY OF DEFAULT)(MEYERHOFF, LISA) (ENTERED: 08/07/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>11</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="11|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A43-11/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=97&amp;dm_id=1891463&amp;doc_num=11&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV97Kdm_idV1891463Kdoc_numV11Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="11|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>08/07/2007</date>
+					<docket.description>REQUEST BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE FOR CLERK&apos;S ENTRY OF DEFAULT AGAINST DEBBIE STEARMAN. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512529690;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B39-1-17512529690" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512529690;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>AFFIDAVIT OF TAN PHAM#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512529605;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+						<gateway.image.link ID="B40-2-17512529605" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512529605;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>EXHIBIT A#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512529567;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+						<gateway.image.link ID="B41-3-17512529567" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512529567;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>EXHIBIT B#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512530399;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">4</image.gateway.link>
+						<gateway.image.link ID="B42-4-17512530399" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512530399;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">4</gateway.image.link> PROPOSED ENTRY OF DEFAULT)(MEYERHOFF, LISA) (ENTERED: 08/07/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>10</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="10|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A44-10/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=94&amp;dm_id=1841557&amp;doc_num=10&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV94Kdm_idV1841557Kdoc_numV10Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="10|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>07/03/2007</date>
+					<docket.description>ORDER SETTING SCHEDULING CONFERENCE FOR 9/25/2007 11:00 AM BEFORE JUDGE MICHAEL H. SCHNEIDER. SIGNED BY JUDGE MICHAEL H. SCHNEIDER ON 07/03/07. CC:ATTYS 7-3-07(MLL, ) (ENTERED: 07/03/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>9</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="9|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A45-9/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=89&amp;dm_id=1707046&amp;doc_num=9&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV89Kdm_idV1707046Kdoc_numV9Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="9|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>04/03/2007</date>
+					<docket.description>ANSWER TO COMPLAINT BY B &amp; L INC, LEON HANSON, BILLIE O&apos;DANIEL.(GASTON, GRANT) (ENTERED: 04/03/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>8</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="8|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A46-8/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=87&amp;dm_id=1701964&amp;doc_num=8&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV87Kdm_idV1701964Kdoc_numV8Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="8|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/28/2007</date>
+					<docket.description>RETURN OF SERVICE EXECUTED AS TO DEBBIE STEARMAN ON 3/17/2007 BY PERSONAL SERVICE; ANSWER DUE: 4/6/2007. (MLL, ) (ENTERED: 03/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>7</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="7|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A47-7/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=85&amp;dm_id=1701948&amp;doc_num=7&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV85Kdm_idV1701948Kdoc_numV7Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="7|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/28/2007</date>
+					<docket.description>RETURN OF SERVICE EXECUTED AS TO JENNIFER VALERO ON 3/13/2007 BY PERSONAL SERVICE; ANSWER DUE: 4/2/2007. (MLL, ) (ENTERED: 03/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>6</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="6|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A48-6/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=83&amp;dm_id=1701936&amp;doc_num=6&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV83Kdm_idV1701936Kdoc_numV6Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="6|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/28/2007</date>
+					<docket.description>RETURN OF SERVICE EXECUTED AS TO BILLIE O&apos;DANIEL ON 3/13/2007 BY PERSONAL SERVICE; ANSWER DUE: 4/2/2007. (MLL, ) (ENTERED: 03/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>5</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="5|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A49-5/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=81&amp;dm_id=1701928&amp;doc_num=5&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV81Kdm_idV1701928Kdoc_numV5Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="5|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/28/2007</date>
+					<docket.description>RETURN OF SERVICE EXECUTED AS TO B &amp; L INC ON 3/14/2007 BY PERSONAL SERVICE; ANSWER DUE: 4/3/2007. (MLL, ) (ENTERED: 03/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>4</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="4|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A50-4/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=79&amp;dm_id=1701917&amp;doc_num=4&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV79Kdm_idV1701917Kdoc_numV4Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="4|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/28/2007</date>
+					<docket.description>RETURN OF SERVICE EXECUTED AS TO LEON HANSON ON 3/14/2007 BY PERSONAL SERVICE; ANSWER DUE: 4/3/2007. (MLL, ) (ENTERED: 03/30/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>3</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="3|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A51-3/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=77&amp;dm_id=1686281&amp;doc_num=3&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV77Kdm_idV1686281Kdoc_numV3Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="3|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/20/2007</date>
+					<docket.description>NOTICE BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE OF REPORT ON THE FILING OR DETERMINATION OF AN ACTION OR APPEAL REGARDING A COPYRIGHT (FORM AO121) (MEYERHOFF, LISA) (ENTERED: 03/20/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>1</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="1|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A55-1/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=72&amp;dm_id=1669514&amp;doc_num=1&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV72Kdm_idV1669514Kdoc_numV1Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="1|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/08/2007</date>
+					<docket.description>COMPLAINT AGAINST ALL DEFENDANTS ( FILING FEE $ 350 RECEIPT NUMBER 1051206.), FILED BY SHERYL SUZANNE CROW, AUDIGRAM SONGS INC, FANTASY INC, SONY/ATV SONGS LLC, RONNIE GENE DUNN, ELEKSYLUM MUSIC INC, NO SURRENDER MUSIC, JAMES W BUFFETT, BROADCAST MUSIC INC, FOURTEENTH HOUR MUSIC INC, SPRINGTIME MUSIC INC, SONGS OF UNIVERSAL INC, EMI VIRGIN SONGS INC, GREGMARK MUSIC INC, BERNITA WALKER-MOSS, SONY/ATV SONGS LLC, TOBY KEITH COVEL, SONY/ATV SONGS LLC, BIG YELLOW DOG LLC, W SCOTT EMERICK, M MARSHALL CHAPMAN, CAREERS-BMG MUSIC PUBLISHING INC, WARNER-TAMERLANE PUBLISHING CORP, ROBERT J RITCHIE. (ATTACHMENTS: #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512064452;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">1</image.gateway.link>
+						<gateway.image.link ID="B52-1-17512064452" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512064452;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">1</gateway.image.link>SCHEDULE#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512064661;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+						<gateway.image.link ID="B53-2-17512064661" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512064661;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>CIVIL COVER SHEET #<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|17512064722;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+						<gateway.image.link ID="B54-3-17512064722" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|17512064722;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link> LIST OF PARTIES)(MEYERHOFF, LISA) (ENTERED: 03/08/2007)</docket.description>
+				</docket.entry>
+				<docket.entry>
+					<number.block>
+						<number>2</number>
+						<image.block>
+							<image.gateway.link casenumber="6:07cv00111" court="TXEDCT-DW" image.ID="2|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" item.type="main" platform="ecf"/>
+							<gateway.image.link ID="A60-2/cgi-bin/show_doc.pl?caseid=101767&amp;de_seq_num=75&amp;dm_id=1670730&amp;doc_num=2&amp;pdf_header=2&apos; id=&apos;documentKcaseidV101767Kde_seq_numV75Kdm_idV1670730Kdoc_numV2Kpdf_headerV2" casenumber="6:07cv00111" court="TXEDCT-DW" item.type="main" key="2|101767|||;court=TXEDCT-DW;casenumber=6:07cv00111" tlr-class="gateway-image-link" ttype="ecf"/>
+						</image.block>
+					</number.block>
+					<date>03/07/2007</date>
+					<docket.description>E-GOV SEALED SUMMONS ISSUED AS TO B &amp; L INC, DEBBIE STEARMAN, DONNEL STEARMAN, LEON HANSON, JENNIFER VALERO, BILLIE O&apos;DANIEL. (ATTACHMENTS: #MAIN DOCUMENT-SUMMONS B&amp;L (1) SUMMONS-D STEARMAN#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751321973;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">2</image.gateway.link>
+						<gateway.image.link ID="B56-2-1751321973" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751321973;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">2</gateway.image.link>SUMMONS-HANSON#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751321974;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">3</image.gateway.link>
+						<gateway.image.link ID="B57-3-1751321974" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751321974;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">3</gateway.image.link>SUMMONS-O&apos;DANIEL#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751321975;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">4</image.gateway.link>
+						<gateway.image.link ID="B58-4-1751321975" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751321975;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">4</gateway.image.link>SUMMONS-STEARMAN#<image.gateway.link casenumber="6:07CV00111" court="TXEDCT-DW" image.id="godls|1751321976;court=TXEDCT-DW;casenumber=6:07CV00111" item.type="ATTACHMENT" platform="ECF">5</image.gateway.link>
+						<gateway.image.link ID="B59-5-1751321976" casenumber="6:07CV00111" court="TXEDCT-DW" item.type="ATTACHMENT" key="godls|1751321976;court=TXEDCT-DW;casenumber=6:07CV00111" tlr-class="gateway-image-link" ttype="ECF">5</gateway.image.link> SUMMONS-VALERO)(RVW, ) (ENTERED: 03/08/2007)</docket.description>
+				</docket.entry>
+			</docket.entries.block>
+			<eos/>
+			<eop/>
+		</r>
+	</n-docbody>
+</n-document>

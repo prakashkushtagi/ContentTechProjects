@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sourceLoadRequest>
+  <acquisitionMethod>PROSPECTIVE</acquisitionMethod>
+  <acquisitionStart>19092012091156</acquisitionStart>
+  <acquisitionType>DAILY</acquisitionType>
+  <batchId>I54d845c0ec8911e1a40800219b684256</batchId>
+  <deleteFlag>false</deleteFlag>
+  <productCode>FBR</productCode>
+  <sourceFile>/dockets/BKR_FBR/LexMergePros_Test.xml</sourceFile>
+</sourceLoadRequest>

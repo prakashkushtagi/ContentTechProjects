@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:p="http://www.springframework.org/schema/p" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jee="http://www.springframework.org/schema/jee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+        				   http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-4.3.xsd
+        				   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd
+        				   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+
+	<!-- Hibernate session factory definition that uses annotations in the entities 
+		to map to tables/columns. -->
+
+
+	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver" />
+		<property name="url"
+			value="jdbc:oracle:thin:@(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=c832qwmdkdbdf.int.thomsonreuters.com)(PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=dockets_dev.int.thomsonreuters.com)))" />
+		<property name="username" value="DOCKETS_PUB_USER" />
+		<property name="password" value="d0ckets" />
+	</bean>
+	
+	<bean id="sessionFactory"
+		class="org.springframework.orm.hibernate3.annotation.AnnotationSessionFactoryBean">
+		<property name="dataSource" ref="dataSource" />
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</prop>
+				<prop key="hibernate.show_sql">false</prop>
+				<prop key="hibernate.cache.provider_class">org.hibernate.cache.HashtableCacheProvider</prop>
+			</props>
+		</property>
+		<property name="annotatedClasses">
+			<list>
+		    	<value> com.trgr.dockets.core.entity.LoadMonitorLtcMessage</value>
+		    	<value> com.trgr.dockets.core.entity.BatchMonitor</value>
+		    	<value> com.trgr.dockets.core.entity.BatchMonitorKey</value>
+		    	<value> com.trgr.dockets.core.entity.NovusLoadFile</value>
+		    	<value> com.trgr.dockets.core.entity.NovusLoadFileKey</value>
+		    	<value> com.trgr.dockets.core.entity.Batch</value>
+		    	<value> com.trgr.dockets.core.entity.Process</value>
+		    	<value>com.trgr.dockets.core.entity.ProcessType</value>
+		    	<value> com.trgr.dockets.core.entity.Status</value>
+		    	<value> com.trgr.dockets.core.entity.PublishingRequest</value>
+		    	<value>com.trgr.dockets.core.entity.Court</value>
+		    	<value>com.trgr.dockets.core.entity.CourtConfig</value>
+		    	<value>com.trgr.dockets.core.entity.CaseType</value>
+	    		<value>com.trgr.dockets.core.entity.CourtCaseTypeConfig</value>
+		    	<value>com.trgr.dockets.core.entity.State</value>
+		    	<value>com.trgr.dockets.core.entity.CollectionEntity</value>
+		    	<value>com.trgr.dockets.core.entity.Product</value>
+			</list>
+		</property>
+	</bean>
+	
+	<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate"
+  		  p:dataSource-ref="dataSource"/>
+
+	<bean id="transactionManager"
+		class="org.springframework.orm.hibernate3.HibernateTransactionManager"
+		p:sessionFactory-ref="sessionFactory" />
+
+	<!-- Enable the configuration of transactional behavior based on @Transactional 
+		annotations -->
+	<tx:annotation-driven transaction-manager="transactionManager" />
+
+	<bean id="loadMonitorLtcMessageService" class="com.trgr.dockets.core.service.LoadMonitorLtcMessageService">
+		<property name="loadMonitorLtcMessageDao" ref="loadMonitorLtcMessageDao"/>
+	</bean>
+		
+	<bean id="loadMonitorLtcMessageDao" class="com.trgr.dockets.core.dao.LoadMonitorLtcMessageDao">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>	
+  	<bean id="publishingRequestService" class="com.trgr.dockets.core.service.PublishingRequestServiceImpl">
+		<property name="publishingRequestDaoImpl" ref="publishingRequestDaoImpl"/>
+	</bean>
+		
+	<bean id="publishingRequestDaoImpl" class="com.trgr.dockets.core.dao.PublishingRequestDaoImpl">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>
+    <bean id="batchMonitorServiceImpl" class="com.trgr.dockets.core.service.BatchMonitorServiceImpl">
+		<property name="batchMonitorDao" ref="batchMonitorDao"/>
+	</bean>
+	<bean id="batchMonitorService" class="com.trgr.dockets.core.service.BatchMonitorServiceImpl">
+		<property name="batchMonitorDao" ref="batchMonitorDao"/>
+	</bean>
+		
+	<bean id="batchMonitorDao" class="com.trgr.dockets.core.dao.BatchMonitorDaoImpl">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>
+	<bean id="batchServiceImpl" class="com.trgr.dockets.core.service.BatchServiceImpl">
+		<property name="batchDao" ref="batchDao"/>
+	</bean>
+	<bean id="batchService" class="com.trgr.dockets.core.service.BatchServiceImpl">
+		<property name="batchDao" ref="batchDao"/>
+	</bean>
+		
+	<bean id="batchDao" class="com.trgr.dockets.core.dao.BatchDaoImpl">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>
+
+	<bean id="processService" class="com.trgr.dockets.core.service.ProcessServiceImpl">
+		<property name="processDao" ref="processDao"/>
+	</bean>
+		
+	<bean id="processDao" class="com.trgr.dockets.core.dao.ProcessDaoImpl">
+		<constructor-arg ref="sessionFactory"/>
+	</bean>	
+	
+	  <bean id="novusLoadFileImpl" class="com.trgr.dockets.core.service.NovusLoadFileServiceImpl">
+		<property name="novusLoadFileDao" ref="novusLoadFileDao"/>
+	</bean>
+		
+	<bean id="novusLoadFileDao" class="com.trgr.dockets.core.dao.NovusLoadFileDaoImpl">
+		<property name="sessionFactory" ref="sessionFactory"/>
+	</bean>
+</beans>

@@ -1,0 +1,14 @@
+<workflow.config>
+	<components>
+		<component name="bermuda.properties">
+			<parameter name="propfile" value="/nas/sdgshared/rpx/client/bermuda_properties/bermuda_dockets_stadkt_default.properties"/>
+		</component>
+		<component name="relloader.properties">
+			<parameter name="datatype" value="metadata_profiler"/>
+			<parameter name="release.flag" value="default"/>
+		</component>
+		<component name="relpub.properties">
+			<parameter name="datatype" value="profiler_dockets"/>
+		</component>
+  </components>
+</workflow.config>

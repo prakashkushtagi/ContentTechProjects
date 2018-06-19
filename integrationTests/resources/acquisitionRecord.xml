@@ -1,0 +1,19 @@
+<new.acquisition.record dcs.receipt.id="70219216" sender.id="Data Capture" merged.file.name="n_dlawdct.5:2013cv00143" 
+		        merged.file.size="3123" 
+		        script.start.date.time="Wed Jan 23 11:46:40 CST 2013" 
+		        script.end.date.time="Wed Jan 23 11:46:40 CST 2013" 
+		        docket.type="predocket" 
+		        retrieve.type="daily" > 
+	<court westlaw.cluster.name="n_dnydownstate" acquisition.status="success" court.type="DCT">
+	<deleted.dockets>
+      <delete.docket.status status="delete">
+      <bkr.docket docket.number="2003bk003769" filename="2003bk003769" case.type="bk" filing.year="2003" sequence.number="003769" subfolder="/2003" filing.location="" subdivision=""/>
+      </delete.docket.status>
+    </deleted.dockets> 
+	<acquired.dockets> 
+	<acquired.docket.status status="captured"> 
+		<bkr.docket docket.number="5:2013cv00143" filename="5:13cv00143" case.type="BANKRUPTCY" filing.year="2013"   sequence.number="00143" subfolder="" filing.location="5" subdivision="Bronx" /> 
+	</acquired.docket.status> 
+	</acquired.dockets> 
+	</court> 
+</new.acquisition.record>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><jobRequest><parameters>
+	<parameter name="requestId">IE7DC9870713711E284AC842B2BA7FABB</parameter>
+	<parameter name="requestType">Preprocessor - Intermediate Conversion - Product Builder - Novus Load</parameter>
+	<parameter name="product">STATE</parameter>
+	<parameter name="requestInitiatorType">CUSTOM</parameter>
+	<parameter name="requestName">cbaTest.020713.090610</parameter>
+	<parameter name="requestOwner">u0007094</parameter>
+	<parameter name="workflowType">FEDBKRDOCKET-BIGDOCKET-RPX-LINKED-PRT</parameter>
+	<parameter name="startTime">1360249570168</parameter>
+	<parameter name="deleteOverride">False</parameter>
+	<parameter name="prismClipDateOverride">False</parameter>
+	<parameter name="sourceFile">C:\temp\bkr feature stories.xlsx</parameter>
+</parameters></jobRequest>

@@ -1,0 +1,3 @@
+\Q/build-sandbox/\E.*
+\Q/build-test/\E.*
+\Q/dist/\E.*
